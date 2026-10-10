@@ -88,6 +88,28 @@ p.sec-sub{text-align:center;color:var(--muted);max-width:700px;margin:0 auto 48p
 .tagrow{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}
 .tag{font-size:12.5px;color:var(--cyan);background:var(--cyan-soft);border:1px solid var(--line);padding:5px 12px;border-radius:999px}
 
+/* ---------- news feed (list) ---------- */
+.feed-head{display:flex;align-items:baseline;justify-content:space-between;max-width:860px;margin:0 auto 8px}
+.feed-day{font-size:15px;font-weight:700;letter-spacing:.5px}
+.feed-count{font-size:13px;color:var(--muted)}
+.feed-count span{color:var(--cyan);font-weight:700}
+.feed-list{counter-reset:brief;max-width:860px;margin:0 auto}
+.feed-item{counter-increment:brief;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:26px 28px;margin-bottom:16px;transition:border-color .18s,transform .18s}
+.feed-item:hover{border-color:rgba(34,211,238,.45);transform:translateY(-2px)}
+.feed-meta{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.feed-num{width:30px;height:30px;border-radius:50%;background:var(--cyan-soft);border:1px solid var(--line);display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;color:var(--cyan);flex-shrink:0}
+.feed-num::before{content:counter(brief)}
+.feed-time{font-size:13px;color:var(--muted)}
+.feed-src{font-size:12px;font-weight:700;letter-spacing:.6px;color:var(--cyan);border:1px solid var(--line);background:var(--cyan-soft);padding:4px 12px;border-radius:999px}
+.feed-tag{font-size:12px;color:var(--muted);border:1px solid var(--line);padding:4px 12px;border-radius:999px}
+.feed-title{font-size:20px;line-height:1.4;margin-bottom:10px}
+.feed-title a{color:var(--text)}
+.feed-title a:hover{color:var(--cyan)}
+.feed-excerpt{color:var(--muted);font-size:14.5px;margin:0}
+.articles{max-width:860px;margin:56px auto 0}
+.articles .article{padding-top:48px;margin-top:48px;border-top:1px solid var(--line)}
+.articles .article:first-of-type{padding-top:0;margin-top:0;border-top:0}
+
 /* ---------- news ---------- */
 .news-card{display:flex;flex-direction:column}
 .news-date{font-size:12.5px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--cyan);margin-bottom:10px}
