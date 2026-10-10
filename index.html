@@ -3,158 +3,171 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>xinhertz — Electronic Components, Sourced Right</title>
-<meta name="description" content="xinhertz is an independent distributor of electronic components and integrated circuits. Genuine parts, inspected quality, worldwide delivery.">
-<style>
-  :root{
-    --bg:#060d1a; --bg2:#0a1428; --card:#0d1830;
-    --cyan:#22d3ee; --cyan-dim:#0e7490; --text:#e8f1ff; --muted:#93a4c4;
-    --line:rgba(34,211,238,.14);
-  }
-  *{margin:0;padding:0;box-sizing:border-box}
-  html{scroll-behavior:smooth}
-  body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6}
-  a{color:var(--cyan);text-decoration:none}
-  .wrap{max-width:1080px;margin:0 auto;padding:0 24px}
-  /* nav */
-  nav{position:sticky;top:0;z-index:50;background:rgba(6,13,26,.88);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
-  nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
-  .brand{display:flex;align-items:center;gap:12px;font-weight:700;font-size:20px;letter-spacing:.5px;color:var(--text)}
-  .brand img{width:36px;height:36px;border-radius:9px}
-  .links{display:flex;gap:28px;font-size:15px}
-  .links a{color:var(--muted);transition:color .2s}
-  .links a:hover{color:var(--cyan)}
-  .cta-btn{display:inline-block;background:var(--cyan);color:#04202a;font-weight:700;padding:10px 22px;border-radius:10px;font-size:15px;transition:transform .15s,box-shadow .15s}
-  .cta-btn:hover{transform:translateY(-1px);box-shadow:0 6px 24px rgba(34,211,238,.35)}
-  /* hero */
-  .hero{padding:96px 0 72px;text-align:center;position:relative;overflow:hidden}
-  .hero::before{content:"";position:absolute;inset:0;background:radial-gradient(600px 300px at 50% 0%,rgba(34,211,238,.12),transparent 70%);pointer-events:none}
-  .hero img.logo{width:120px;height:120px;border-radius:28px;box-shadow:0 12px 48px rgba(34,211,238,.25);margin-bottom:28px}
-  .hero h1{font-size:52px;letter-spacing:1px;margin-bottom:12px}
-  .hero h1 span{color:var(--cyan)}
-  .hero p.tag{font-size:21px;color:var(--muted);max-width:640px;margin:0 auto 36px}
-  .hero .btns{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
-  .ghost-btn{display:inline-block;border:1px solid var(--cyan-dim);color:var(--cyan);padding:10px 22px;border-radius:10px;font-size:15px;font-weight:600}
-  .ghost-btn:hover{border-color:var(--cyan)}
-  /* sections */
-  section{padding:64px 0}
-  h2{font-size:30px;margin-bottom:8px;text-align:center}
-  h2 span{color:var(--cyan)}
-  p.sub{text-align:center;color:var(--muted);max-width:680px;margin:0 auto 44px}
-  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:28px;transition:transform .15s,border-color .15s}
-  .card:hover{transform:translateY(-3px);border-color:rgba(34,211,238,.4)}
-  .card .icon{font-size:30px;margin-bottom:14px}
-  .card h3{font-size:18px;margin-bottom:8px;color:var(--cyan)}
-  .card p{color:var(--muted);font-size:15px}
-  .about{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center}
-  .about img{width:100%;border-radius:20px;border:1px solid var(--line)}
-  .about p{color:var(--muted);margin-bottom:16px}
-  .check{list-style:none;margin-top:8px}
-  .check li{padding:8px 0 8px 30px;position:relative;color:var(--text);font-size:15px}
-  .check li::before{content:"✓";position:absolute;left:0;color:var(--cyan);font-weight:700}
-  /* contact */
-  .contact{background:var(--bg2);border-top:1px solid var(--line);border-bottom:1px solid var(--line);text-align:center}
-  .contact .methods{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin-top:32px}
-  .method{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 28px;min-width:220px}
-  .method .label{font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-bottom:6px}
-  .method .value{font-size:17px;font-weight:600;color:var(--text);word-break:break-all}
-  footer{padding:32px 0;text-align:center;color:var(--muted);font-size:14px}
-  @media(max-width:720px){
-    .hero h1{font-size:36px}
-    .about{grid-template-columns:1fr}
-    .links{display:none}
-  }
-</style>
+<title>xinhertz — Electronic Components Distributor | ICs, Power, Memory, Passives</title>
+<meta name="description" content="xinhertz is an independent distributor of electronic components and integrated circuits in Shenzhen, China. Send your BOM for a fast quotation.">
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 <nav>
-  <div class="wrap">
-    <a class="brand" href="#top"><img src="logo.jpg" alt="xinhertz logo">xinhertz</a>
-    <div class="links">
-      <a href="#about">About</a>
-      <a href="#products">Products</a>
-      <a href="#services">Services</a>
-      <a href="#contact">Contact</a>
+  <div class="wrap nav-inner">
+    <a class="brand" href="index.html"><img src="logo.jpg" alt="xinhertz logo">xinhertz</a>
+    <div class="nav-links">
+      <a href="index.html" class="active">Home</a>
+      <a href="products.html">Products</a>
+      <a href="news.html">News</a>
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact</a>
     </div>
-    <a class="cta-btn" href="#contact">Get a Quote</a>
+    <a class="btn nav-cta" href="contact.html">Get a Quote</a>
+    <button class="burger" aria-label="menu">☰</button>
   </div>
 </nav>
 
-<header class="hero" id="top">
+<header class="hero">
   <div class="wrap">
-    <img class="logo" src="logo.jpg" alt="xinhertz">
-    <h1>xinhertz</h1>
-    <p class="tag">Electronic components, <span style="color:var(--cyan)">sourced right</span> — genuine parts, inspected quality, delivered worldwide.</p>
-    <div class="btns">
-      <a class="cta-btn" href="mailto:xinhertz888@gmail.com?subject=Quote%20Request%20—%20xinhertz">Request a Quote</a>
-      <a class="ghost-btn" href="https://wa.me/85257177318?text=Hi%20xinhertz!%20I%27d%20like%20a%20quote%20for%20electronic%20components.">Chat on WhatsApp</a>
+    <span class="kicker">Independent Components Distributor — Shenzhen</span>
+    <h1>The parts you need.<br><span>Sourced right.</span></h1>
+    <p class="lead">xinhertz helps manufacturers and engineers source integrated circuits and electronic components — including hard-to-find and allocated parts — with fast quotations and honest lead times.</p>
+    <form class="searchbox" id="part-search">
+      <input id="part-input" type="text" placeholder="Enter a part number, e.g. STM32F103C8T6…" autocomplete="off">
+      <button class="btn" type="submit">Get Quote</button>
+    </form>
+    <p class="search-note">No account needed — your part number goes straight into a quote request.</p>
+    <div class="chips">
+      <a class="chip" href="products.html#ics">Integrated Circuits</a>
+      <a class="chip" href="products.html#power">Power Management</a>
+      <a class="chip" href="products.html#memory">Memory</a>
+      <a class="chip" href="products.html#passives">Passives</a>
+      <a class="chip" href="products.html#connectors">Connectors</a>
+      <a class="chip" href="products.html#sensors">Sensors &amp; RF</a>
     </div>
   </div>
 </header>
 
-<section id="about">
+<div class="trust">
+  <div class="trust-inner">
+    <div class="trust-item"><span class="ticon">⚡</span><span>Fast quotations, usually within hours</span></div>
+    <div class="trust-item"><span class="ticon">🔍</span><span>Quality-checked before shipment</span></div>
+    <div class="trust-item"><span class="ticon">📦</span><span>BOM kitting &amp; consolidated shipping</span></div>
+    <div class="trust-item"><span class="ticon">💬</span><span>Direct WhatsApp support</span></div>
+  </div>
+</div>
+
+<section>
   <div class="wrap">
-    <h2>About <span>xinhertz</span></h2>
-    <p class="sub">An independent distributor of electronic components, built for buyers who can't afford surprises.</p>
-    <div class="about">
-      <img src="logo.jpg" alt="xinhertz">
-      <div>
-        <p>We help manufacturers, distributors, and engineers source integrated circuits and electronic components — including hard-to-find and allocated parts — with honest lead times and honest pricing.</p>
-        <p>Every order goes through multi-step quality inspection before it ships, so what arrives is what your BOM asked for.</p>
-        <ul class="check">
-          <li>Genuine parts from trusted channels</li>
-          <li>Inspection before every shipment</li>
-          <li>Fast, transparent quotations</li>
-          <li>Worldwide delivery</li>
-        </ul>
+    <h2 class="sec">Brands We <span>Source</span></h2>
+    <p class="sec-sub">We routinely source components from major manufacturers worldwide. Send your BOM — if it's made, we can find it.</p>
+    <div class="brand-wall">
+      <div class="brand-chip">TI<small>Texas Instruments</small></div>
+      <div class="brand-chip">ST<small>STMicroelectronics</small></div>
+      <div class="brand-chip">NXP<small>NXP Semiconductors</small></div>
+      <div class="brand-chip">Infineon<small>Infineon Technologies</small></div>
+      <div class="brand-chip">onsemi<small>ON Semiconductor</small></div>
+      <div class="brand-chip">ADI<small>Analog Devices</small></div>
+      <div class="brand-chip">Microchip<small>Microchip Technology</small></div>
+      <div class="brand-chip">Vishay<small>Vishay Intertechnology</small></div>
+      <div class="brand-chip">Murata<small>Murata Manufacturing</small></div>
+      <div class="brand-chip">Samsung<small>Samsung Electro-Mechanics</small></div>
+      <div class="brand-chip">YAGEO<small>Yageo Corporation</small></div>
+      <div class="brand-chip">TDK<small>TDK Corporation</small></div>
+    </div>
+    <p class="disclaimer">xinhertz is an independent distributor. Brand names are shown for sourcing reference only and do not imply authorized or franchised distribution.</p>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <h2 class="sec">Product <span>Categories</span></h2>
+    <p class="sec-sub">Six focus areas, one point of contact. Send the full BOM and we quote it as a package.</p>
+    <div class="grid">
+      <div class="card"><div class="cicon">🔌</div><h3><a href="products.html#ics">Integrated Circuits</a></h3><p>MCUs, MPUs, logic, interface and analog ICs for every stage of your design.</p><a class="more" href="products.html#ics">Explore →</a></div>
+      <div class="card"><div class="cicon">⚡</div><h3><a href="products.html#power">Power Management</a></h3><p>Regulators, converters, MOSFETs, drivers and power modules.</p><a class="more" href="products.html#power">Explore →</a></div>
+      <div class="card"><div class="cicon">💾</div><h3><a href="products.html#memory">Memory</a></h3><p>DRAM, NAND flash, NOR flash, EEPROM and specialty memory ICs.</p><a class="more" href="products.html#memory">Explore →</a></div>
+      <div class="card"><div class="cicon">🔧</div><h3><a href="products.html#passives">Passive Components</a></h3><p>Capacitors, resistors, inductors, crystals and oscillators.</p><a class="more" href="products.html#passives">Explore →</a></div>
+      <div class="card"><div class="cicon">🔗</div><h3><a href="products.html#connectors">Connectors</a></h3><p>Board-to-board, wire-to-board, RF and industrial connectors.</p><a class="more" href="products.html#connectors">Explore →</a></div>
+      <div class="card"><div class="cicon">📡</div><h3><a href="products.html#sensors">Sensors &amp; RF</a></h3><p>Sensors, wireless modules, RF discretes and optoelectronics.</p><a class="more" href="products.html#sensors">Explore →</a></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Why Buyers Choose <span>xinhertz</span></h2>
+    <p class="sec-sub">More than a parts list — a sourcing partner.</p>
+    <div class="grid">
+      <div class="card"><div class="cicon">🎯</div><h3>Hard-to-Find Parts</h3><p>Allocated, obsolete, or long-lead-time components — we track them down through our supply network.</p></div>
+      <div class="card"><div class="cicon">🔍</div><h3>Quality Inspection</h3><p>Visual and functional checks on every lot before shipment. Counterfeits don't leave our hands.</p></div>
+      <div class="card"><div class="cicon">📋</div><h3>BOM Kitting</h3><p>Send the full BOM; we quote it as one package and ship it consolidated to save you freight and hassle.</p></div>
+      <div class="card"><div class="cicon">🌍</div><h3>Worldwide Delivery</h3><p>Reliable express and freight options with tracking, packed for ESD-sensitive parts.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <h2 class="sec">Industry <span>Insights</span></h2>
+    <p class="sec-sub">What we're watching in the components market — so you can plan your BOM ahead of the curve.</p>
+    <div class="grid">
+      <div class="card news-card">
+        <div class="news-date">Oct 10, 2026</div>
+        <h3><a href="news.html#onsemi-hike">onsemi's Second 2026 Price Hike Takes Effect — Power Semis in a Full Upcycle</a></h3>
+        <p>onsemi's latest increase is its second this year. TI, Infineon, ST and Renesas have all raised prices in 2026 — and AI's shift to 800V HVDC is lifting SiC/GaN content per rack.</p>
+        <a class="more" href="news.html#onsemi-hike">Read analysis →</a>
+      </div>
+      <div class="card news-card">
+        <div class="news-date">Updated regularly</div>
+        <h3><a href="news.html">More market briefs</a></h3>
+        <p>We publish short, buyer-focused briefs on pricing, lead times and supply trends across the components we source.</p>
+        <a class="more" href="news.html">View all →</a>
       </div>
     </div>
   </div>
 </section>
 
-<section id="products" style="background:var(--bg2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+<div class="cta-band">
   <div class="wrap">
-    <h2>What We <span>Source</span></h2>
-    <p class="sub">Send your BOM — if it's made, we can find it. Focus areas include:</p>
-    <div class="grid">
-      <div class="card"><div class="icon">🔌</div><h3>Integrated Circuits</h3><p>MCUs, MPUs, memory, logic, interface and analog ICs from major manufacturers.</p></div>
-      <div class="card"><div class="icon">⚡</div><h3>Power Management</h3><p>Regulators, converters, MOSFETs, drivers and power modules.</p></div>
-      <div class="card"><div class="icon">🔧</div><h3>Passives</h3><p>Capacitors, resistors, inductors, crystals and oscillators.</p></div>
-      <div class="card"><div class="icon">📡</div><h3>Connectors &amp; More</h3><p>Connectors, sensors, RF components and electromechanical parts.</p></div>
+    <h2>Send your BOM. <span>Get a quote today.</span></h2>
+    <p>No registration, no waiting — tell us the part numbers and quantities.</p>
+    <div class="btns">
+      <a class="btn" href="contact.html">Request a Quote</a>
+      <a class="btn-ghost" href="https://wa.me/85257177318?text=Hi%20xinhertz!%20I%27d%20like%20a%20quote%20for%20electronic%20components.">Chat on WhatsApp</a>
     </div>
   </div>
-</section>
-
-<section id="services">
-  <div class="wrap">
-    <h2>How We <span>Help</span></h2>
-    <p class="sub">More than a parts list — a sourcing partner.</p>
-    <div class="grid">
-      <div class="card"><div class="icon">🎯</div><h3>Hard-to-Find Parts</h3><p>Allocated, obsolete, or long-lead-time components — we track them down through our supply network.</p></div>
-      <div class="card"><div class="icon">🔍</div><h3>Quality Inspection</h3><p>Visual and electrical checks on every lot before shipment. Counterfeits don't leave our warehouse.</p></div>
-      <div class="card"><div class="icon">📋</div><h3>BOM Kitting</h3><p>Send the full BOM; we quote it as one package and ship it consolidated.</p></div>
-      <div class="card"><div class="icon">🌍</div><h3>Global Shipping</h3><p>Reliable express and freight options with tracking, packed for ESD-sensitive parts.</p></div>
-    </div>
-  </div>
-</section>
-
-<section id="contact" class="contact">
-  <div class="wrap">
-    <h2>Get a <span>Quote</span></h2>
-    <p class="sub">Send your part numbers or BOM — we reply fast.</p>
-    <div class="methods">
-      <div class="method"><div class="label">Email</div><div class="value"><a href="mailto:xinhertz888@gmail.com">xinhertz888@gmail.com</a></div></div>
-      <div class="method"><div class="label">WhatsApp</div><div class="value"><a href="https://wa.me/85257177318">+852 5717 7318</a></div></div>
-      <div class="method"><div class="label">X (Twitter)</div><div class="value"><a href="https://x.com/chipquay888">@chipquay888</a></div></div>
-    </div>
-  </div>
-</section>
+</div>
 
 <footer>
-  <div class="wrap">© 2026 xinhertz. All rights reserved.</div>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="brand" href="index.html"><img src="logo.jpg" alt="xinhertz logo">xinhertz</a>
+        <p>Independent distributor of electronic components, based in Shenzhen, China. Send your BOM for a fast, honest quotation.</p>
+      </div>
+      <div class="foot-col">
+        <h4>Site</h4>
+        <a href="products.html">Products</a>
+        <a href="news.html">News</a>
+        <a href="about.html">About Us</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <div class="foot-col">
+        <h4>Products</h4>
+        <a href="products.html#ics">Integrated Circuits</a>
+        <a href="products.html#power">Power Management</a>
+        <a href="products.html#memory">Memory</a>
+        <a href="products.html#passives">Passives</a>
+      </div>
+      <div class="foot-col">
+        <h4>Contact</h4>
+        <a href="mailto:xinhertz888@gmail.com">xinhertz888@gmail.com</a>
+        <a href="https://wa.me/85257177318">WhatsApp +852 5717 7318</a>
+        <a href="https://x.com/chipquay888">X @chipquay888</a>
+      </div>
+    </div>
+    <div class="foot-bottom">© <span id="year">2026</span> xinhertz. All rights reserved. xinhertz is an independent distributor; brand names on this site are for sourcing reference only.</div>
+  </div>
 </footer>
 
+<script src="js/main.js"></script>
 </body>
 </html>
