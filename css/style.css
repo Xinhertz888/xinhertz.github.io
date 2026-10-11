@@ -170,3 +170,12 @@ footer{padding:52px 0 40px;border-top:1px solid var(--line);background:var(--bg2
   .searchbox{flex-direction:column;gap:6px}
   .searchbox .btn{width:100%}
 }
+
+/* news pagination */
+.pagination{display:flex;align-items:center;justify-content:center;gap:16px;margin:28px auto;max-width:860px;flex-wrap:wrap}
+.pagination a{color:var(--blue);text-decoration:none;font-weight:600}
+.pagination a:hover{text-decoration:underline}
+.pg-nums{display:flex;gap:10px}
+.pg-cur{font-weight:800;text-decoration:underline}
+.pg-dis{color:#9aa3b2}
+.pg-info{color:#666;font-size:.9em}
