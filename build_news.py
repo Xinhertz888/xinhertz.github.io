@@ -120,11 +120,14 @@ def main():
         <a class="more" href="news.html">Read brief &rarr;</a>
       </div>"""
         idx, found = re.subn(
-            r'      <div class="card news-card">.*?</div>\n',
+            # Match the whole first news-card: opening line, then lazily consume
+            # full lines until the card's own closing </div> at column 6.
+            # (Nested divs like news-date are indented deeper, so they can't
+            #  match the closing anchor.)
+            r'      <div class="card news-card">\n(?:.*\n)*?      </div>\n',
             new_card + "\n",
             idx,
             count=1,
-            flags=re.S,
         )
         if found:
             idx = idx.replace(
