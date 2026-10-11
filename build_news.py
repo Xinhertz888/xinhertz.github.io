@@ -58,6 +58,24 @@ def pagination(page, total):
     </nav>"""
 
 
+def write_sitemap(pages):
+    """Regenerate sitemap.xml so search engines always see every page,
+    including news-N.html archive pages as they accumulate."""
+    base = "https://xinhertz.top"
+    urls = ["", "products.html", "about.html", "contact.html"]
+    urls += ["news.html" if p == 1 else f"news-{p}.html" for p in range(1, pages + 1)]
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ]
+    for u in urls:
+        loc = base + ("/" if not u else "/" + u)
+        lines.append(f"  <url><loc>{loc}</loc><changefreq>daily</changefreq></url>")
+    lines.append("</urlset>")
+    (BASE / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print("wrote sitemap.xml")
+
+
 def main():
     briefs = json.loads((BASE / "data" / "briefs.json").read_text(encoding="utf-8"))
     total = len(briefs)
@@ -107,6 +125,9 @@ def main():
         (BASE / f"news-{n}.html").unlink()
         print(f"removed stale news-{n}.html")
         n += 1
+
+    # ---- sitemap.xml: keep search engines aware of every page ----
+    write_sitemap(pages)
 
     # ---- index.html: Industry Insights first card = latest brief ----
     if briefs:
