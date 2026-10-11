@@ -1,5 +1,158 @@
 [
  {
+  "body": [
+   "The mystery \"Party A\" in Synaptics' October 8 proxy filing is Cirrus Logic, which made an unsolicited rival bid in September after onsemi's approach, Bloomberg reported citing people familiar with the matter.",
+   "onsemi revised its proposal on October 1 to an all-cash transaction worth about US$5.7 billion (US$123 per share), replacing its original all-stock offer valued at roughly US$7 billion."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "Bloomberg via Seeking Alpha",
+  "title": "Cirrus Logic Named as Rival Bidder for Synaptics as onsemi Switches to All-Cash Offer"
+ },
+ {
+  "body": [
+   "Nomura expects China's wafer-fab equipment market to grow at a compound rate of about 19% from FY2025 to FY2030, lifting China's chip self-sufficiency from roughly 34% in FY2025 to about 47% in FY2030.",
+   "Upstream wafer suppliers are moving first: Shin-Etsu Chemical, SUMCO and GlobalWafers have all announced two rounds of price increases for 2026."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "Nomura via Sina Finance",
+  "title": "Nomura: China's Semiconductor Equipment Market Could Top US$100 Billion in FY2027"
+ },
+ {
+  "body": [
+   "AMD's space-grade Versal AI Core XQRVC1902 is now sampling with early customers and is aimed at MIL-PRF-38535 Class Y, the highest reliability certification for space electronics.",
+   "The lidless organic package is designed for missions lasting up to 15 years and is fully pin-compatible with the existing VC1902 device family."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "Futurum Group",
+  "title": "AMD Ships Space-Grade Versal XQRVC1902 Targeting 15-Year Missions"
+ },
+ {
+  "body": [
+   "Microchip announced on October 9 that it has acquired VORAGO Technologies, an Austin-based private company whose radiation-hardened chips operate in high-radiation environments and at temperatures up to 200°C, serving aerospace, defense and industrial mission-critical applications.",
+   "Terms were not disclosed; Microchip said the acquisition will have no material impact on combined financial results. The deal strengthens its aerospace and defense solutions portfolio."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "GlobeNewswire (Microchip)",
+  "title": "Microchip Acquires Radiation-Hardened Chipmaker VORAGO Technologies"
+ },
+ {
+  "body": [
+   "Infineon's new automotive-grade cluster MCU, the TRAVEO T2G CYT4EN, pairs with external LPDDR4 memory to render 2.5D graphics and 3D content, driving dual Full HD displays without a separate SoC.",
+   "The memory subsystem was co-optimized with Micron, the chip supports ASIL-B functional safety, boots in under 150 milliseconds, and is available now."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "electronicsmedia.info",
+  "title": "Infineon Launches TRAVEO T2G CYT4EN Automotive Cluster MCU"
+ },
+ {
+  "body": [
+   "Samsung has told its supply chain it will cut fourth-quarter phone supply by 20–30%, as surging memory prices erase handset margins.",
+   "AI data centers have diverted wafer capacity away from mobile DRAM, pushing mobile memory contract prices up 175% over the past year. Samsung's full-year phone output is now expected at around 200 million units, down from 270 million."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "SamMobile",
+  "title": "Samsung Cuts Q4 Phone Supply by up to 30% as Memory Prices Bite"
+ },
+ {
+  "body": [
+   "The reference design, announced October 5, collapses rack power conversion from two stages to one — converting 800V DC directly to 6V DC and skipping the intermediate 50V bus.",
+   "It targets 96% full-load efficiency and 2,100 W/in³ power density, pairing Microchip's dsPIC33AK digital controller with 16 Navitas NV6034 GaN FETs. Reference boards, software and design documentation open to developers at the OCP Global Summit in San Jose, October 12–15."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "GlobeNewswire (Navitas)",
+  "title": "Navitas and Microchip Unveil 800V Reference Design for AI Data Centers"
+ },
+ {
+  "body": [
+   "Samsung has pre-committed roughly 75–80% of next year's memory capacity to long-term agreements, with Nvidia, Google and Microsoft seeking supply locks of five years or more.",
+   "The memory business is shifting from quarterly pricing to a long-term-contract model, leaving shrinking spot availability for distributors and the open market."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "KED Global",
+  "title": "Samsung Locks Up 75–80% of 2027 Memory Output in Long-Term Deals"
+ },
+ {
+  "body": [
+   "NXP's Ara240, a discrete neural-network processor for the edge delivering up to 40 eTOPS, enables local inference of LLMs and vision-language models without cloud dependency.",
+   "Mouser began stocking the part on October 5. The chip pairs with 16 GB of LPDDR4, connects via PCIe Gen4 and USB 3.2, and includes secure boot with a hardware root of trust."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "Mouser Electronics",
+  "title": "NXP Ara240 Edge AI Processor Hits Mouser Shelves"
+ },
+ {
+  "body": [
+   "AMD CEO Lisa Su said in Taipei on October 6 that demand has outstripped supply and the company plans to substantially increase chip supply in 2027.",
+   "The Asia trip is capacity-focused: meetings with Foxconn and TSMC in Taiwan, plus planned talks with Samsung and SK Hynix in Korea on memory supply."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "Reuters",
+  "title": "AMD Plans Substantial Supply Increase in 2027, CEO Says"
+ },
+ {
+  "body": [
+   "ST launched two 6-axis IMUs with dual accelerometers in a single package: the consumer-grade LSM6DSK320X and the industrial-grade ISM6HGK256X.",
+   "A symmetric mirrored gyroscope structure cancels vibration and shock, while the dual accelerometers capture micro-motion and high-g events simultaneously without range switching. Ranges span ±16g to ±320g, the industrial part is rated from −40°C to +105°C, and adapter boards ship from November 2026."
+  ],
+  "date": "Oct 11, 2026",
+  "sources": "EDN Asia",
+  "title": "ST Adds Dual-Accelerometer 6-Axis IMUs"
+ },
+ {
+  "body": [
+   "Taiwan prosecutors indicted ten people for buying controlled chips from Analog Devices and Texas Instruments under the guise of a Taiwanese research institute since 2017, relabeling chips made in overseas factories as \"Made in Taiwan\" and reselling them to China via Hong Kong.",
+   "Prosecutors are seeking a 10-year sentence for the ringleader; illicit profits totaled NT$300 million (about US$9.4 million)."
+  ],
+  "date": "Oct 10, 2026",
+  "sources": "GMA News",
+  "title": "Taiwan Indicts 10 for Relabeling US-Controlled Chips for Resale to China"
+ },
+ {
+  "body": [
+   "Samsung's preliminary third-quarter results set a record at 107.4 trillion won, driven almost entirely by the memory business, with memory margins reportedly exceeding Nvidia's.",
+   "HBM is consuming a disproportionate share of wafer capacity, and brokerages expect the rally in conventional memory to extend into next year."
+  ],
+  "date": "Oct 10, 2026",
+  "sources": "SE Daily",
+  "title": "Samsung's Memory Margins Top Nvidia's as Q3 Profit Hits Record"
+ },
+ {
+  "body": [
+   "Infineon has completed its acquisition of Bangalore-based C2i Semiconductor, buying its digital power-control capabilities for AI data center power.",
+   "C2i's software-defined multiphase controllers and smart power stages will be integrated with Infineon's silicon, SiC and GaN power semiconductor portfolios."
+  ],
+  "date": "Oct 10, 2026",
+  "sources": "SemiMedia",
+  "title": "Infineon Completes Acquisition of C2i Semiconductor"
+ },
+ {
+  "body": [
+   "Microchip's MTCH3380P and MTCH3240P are its first turnkey touch controllers for buttons, sliders and wheels in screenless HMI, with 12 on-chip ADCs sampling touch signals in parallel so responsiveness holds as sensor counts grow.",
+   "The MTCH3380P is priced at US$1.06 and the MTCH3240P at US$0.80 in 10,000-unit quantities."
+  ],
+  "date": "Oct 10, 2026",
+  "sources": "CXOtoday",
+  "title": "Microchip Debuts First Parallel-Sensing Touch Controllers"
+ },
+ {
+  "body": [
+   "ASML issued a rare blanket price increase to Samsung Electronics and SK Hynix: all EUV and DUV lithography parts for the Korean market rise 10% for deliveries from January 2027.",
+   "If the two Korean fabs accept, the move sets a precedent for Applied Materials, Tokyo Electron and other equipment vendors to follow with their own increases."
+  ],
+  "date": "Oct 10, 2026",
+  "sources": "Sina Finance",
+  "title": "ASML Raises All Lithography Parts Prices 10% for Korean Market"
+ },
+ {
+  "body": [
+   "Infineon released a three-phase PSU reference design for AI server racks built entirely from its own parts — CoolSiC and CoolMOS, EiceDRIVER, XENSIV sensors and PSoC — with peak efficiency above 98%.",
+   "The design debuts at the OCP Global Summit in San Jose starting October 12."
+  ],
+  "date": "Oct 10, 2026",
+  "sources": "bitcoinversus.tech",
+  "title": "Infineon Unveils 27 kW 3-Phase PSU for AI Server Racks"
+ },
+ {
   "date": "Oct 11, 2026",
   "title": "Eswei Computing Lists in Hong Kong as \"First RISC-V Stock,\" Valued at HK$35.4 Billion",
   "body": [
