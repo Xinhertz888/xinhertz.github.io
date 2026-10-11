@@ -74,6 +74,8 @@ def main():
     tail_after_end = re.sub(r"\s*<!--\s*\n\s*═+.*?═+\s*-->", "", tail_after_end, flags=re.S)
     # tail_after_end now starts with "\n    </div>\n\n  </div>\n</section>..." — keep from </div> on
     tail = end_marker + tail_after_end
+    # strip pagination navs left by previous builds (keep builds idempotent)
+    tail = re.sub(r'\s*<nav class="pagination">.*?</nav>', '', tail, flags=re.S)
 
     for page in range(1, pages + 1):
         chunk = briefs[(page - 1) * PER_PAGE : page * PER_PAGE]
