@@ -1,249 +1,291 @@
 [
- {
-  "date": "Oct 12, 2026",
-  "title": "Four SiC Projects in China Accelerate Toward Production",
-  "body": [
-   "Four silicon carbide projects across China reported fresh progress this week, signaling continued capacity expansion in the third-generation semiconductor race.",
-   "Lips' Yangzhou SiC project, a provincial major project with total investment of 1 billion yuan (180 million yuan in phase one), will deliver its first phase — two automotive-grade SiC module packaging and testing lines with annual capacity of 1.5 million units — by year-end 2026; full build-out targets 3 million units per year.",
-   "Galaxy Microelectronics topped out the main structure of its Changzhou base on October 8 and expects trial production in Q2 next year; at full capacity it will produce 50 million IGBT and SiC power modules annually.",
-   "Xinjia Electronics said its fully automated automotive-grade SiC module line is already running at full load with 600,000 units of annual capacity, with products qualified into supply chains of leading domestic automakers; two more lines planned for next year would lift capacity to 1.5 million automotive-grade and 4 million industrial-grade units per year by late 2027 or early 2028.",
-   "Zhongyi Chuangxin reported its optical-grade SiC powder project — supplying semi-insulating SiC powder for AR glasses lenses — is 80% complete since construction began in June."
-  ],
-  "sources": "eefocus.com"
- },
- {
-  "date": "Oct 12, 2026",
-  "title": "Global AI Compute Market Nears US$1.2 Trillion in 2026, Industry Data Shows",
-  "body": [
-   "Industry research reports cited in the coverage put global computing capacity at 4,495 EFlops as of June 2025, up 117% year on year, with intelligent computing accounting for 85% of the total — marking a structural shift from general to intelligent computing.",
-   "The global AI compute market is approaching US$1.2 trillion in 2026; the AI semiconductor market is estimated at about US$485 billion this year, on track for roughly US$753 billion by 2030, while global semiconductor spending hit US$793 billion in 2025, up 21%.",
-   "Capital is flooding in: global data center capex rose 57% in 2025 and is expected to exceed US$1 trillion in 2026, driven by more than 10 million high-end accelerators, with AI infrastructure spending already surpassing US$1.3 trillion.",
-   "China's computing capacity reached 962 EFlops — about 21% of the global total, up 73% year on year — and domestic AI accelerator shipments keep climbing: Nvidia holds about 55% of China's AI card market (2.2 million units), domestic vendors a combined 41% (1.65 million), and AMD and others about 4% of a roughly 4-million-unit total."
-  ],
-  "sources": "eefocus.com"
- },
- {
-  "date": "Oct 12, 2026",
-  "title": "TSMC Taps GlobalFoundries in US$2 Billion Silicon Interposer Deal for CoWoS",
-  "body": [
-   "GlobalFoundries announced on October 8 a multi-year manufacturing agreement with TSMC: GF will expand silicon interposer capacity at its Malta, New York fab to supply TSMC's CoWoS advanced-packaging ecosystem, in a deal worth an estimated US$2 billion over an initial five-year term, with volume ramp expected in the first half of 2028.",
-   "The deal makes GF the first US-based supplier of silicon interposers for advanced packaging, adding a clear supply-chain regionalization dimension to what is otherwise a pure capacity play.",
-   "Counterpoint Research estimates TSMC's CoWoS supply-demand gap at about 20% in 2026, narrowing to roughly 10% in 2027 as internal capacity expands toward 185,000 wafers per month; TrendForce expects TSMC's 2026 average monthly CoWoS capacity at 120,000–140,000 wafers — a record — with 2027 capacity up more than 60%.",
-   "Yole Group data cited in the coverage puts the global advanced-packaging market at about US$44.3 billion in 2022, growing to roughly US$78.6 billion by 2028 at a compound annual rate of around 10%, with AI demand as the core driver."
-  ],
-  "sources": "laoyaoba.com"
- },
- {
-  "body": [
-   "The mystery \"Party A\" in Synaptics' October 8 proxy filing is Cirrus Logic, which made an unsolicited rival bid in September after onsemi's approach, Bloomberg reported citing people familiar with the matter.",
-   "onsemi revised its proposal on October 1 to an all-cash transaction worth about US$5.7 billion (US$123 per share), replacing its original all-stock offer valued at roughly US$7 billion."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "Bloomberg via Seeking Alpha",
-  "title": "Cirrus Logic Named as Rival Bidder for Synaptics as onsemi Switches to All-Cash Offer"
- },
- {
-  "body": [
-   "Nomura expects China's wafer-fab equipment market to grow at a compound rate of about 19% from FY2025 to FY2030, lifting China's chip self-sufficiency from roughly 34% in FY2025 to about 47% in FY2030.",
-   "Upstream wafer suppliers are moving first: Shin-Etsu Chemical, SUMCO and GlobalWafers have all announced two rounds of price increases for 2026."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "Nomura via Sina Finance",
-  "title": "Nomura: China's Semiconductor Equipment Market Could Top US$100 Billion in FY2027"
- },
- {
-  "body": [
-   "AMD's space-grade Versal AI Core XQRVC1902 is now sampling with early customers and is aimed at MIL-PRF-38535 Class Y, the highest reliability certification for space electronics.",
-   "The lidless organic package is designed for missions lasting up to 15 years and is fully pin-compatible with the existing VC1902 device family."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "Futurum Group",
-  "title": "AMD Ships Space-Grade Versal XQRVC1902 Targeting 15-Year Missions"
- },
- {
-  "body": [
-   "Microchip announced on October 9 that it has acquired VORAGO Technologies, an Austin-based private company whose radiation-hardened chips operate in high-radiation environments and at temperatures up to 200°C, serving aerospace, defense and industrial mission-critical applications.",
-   "Terms were not disclosed; Microchip said the acquisition will have no material impact on combined financial results. The deal strengthens its aerospace and defense solutions portfolio."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "GlobeNewswire (Microchip)",
-  "title": "Microchip Acquires Radiation-Hardened Chipmaker VORAGO Technologies"
- },
- {
-  "body": [
-   "Infineon's new automotive-grade cluster MCU, the TRAVEO T2G CYT4EN, pairs with external LPDDR4 memory to render 2.5D graphics and 3D content, driving dual Full HD displays without a separate SoC.",
-   "The memory subsystem was co-optimized with Micron, the chip supports ASIL-B functional safety, boots in under 150 milliseconds, and is available now."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "electronicsmedia.info",
-  "title": "Infineon Launches TRAVEO T2G CYT4EN Automotive Cluster MCU"
- },
- {
-  "body": [
-   "Samsung has told its supply chain it will cut fourth-quarter phone supply by 20–30%, as surging memory prices erase handset margins.",
-   "AI data centers have diverted wafer capacity away from mobile DRAM, pushing mobile memory contract prices up 175% over the past year. Samsung's full-year phone output is now expected at around 200 million units, down from 270 million."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "SamMobile",
-  "title": "Samsung Cuts Q4 Phone Supply by up to 30% as Memory Prices Bite"
- },
- {
-  "body": [
-   "The reference design, announced October 5, collapses rack power conversion from two stages to one — converting 800V DC directly to 6V DC and skipping the intermediate 50V bus.",
-   "It targets 96% full-load efficiency and 2,100 W/in³ power density, pairing Microchip's dsPIC33AK digital controller with 16 Navitas NV6034 GaN FETs. Reference boards, software and design documentation open to developers at the OCP Global Summit in San Jose, October 12–15."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "GlobeNewswire (Navitas)",
-  "title": "Navitas and Microchip Unveil 800V Reference Design for AI Data Centers"
- },
- {
-  "body": [
-   "Samsung has pre-committed roughly 75–80% of next year's memory capacity to long-term agreements, with Nvidia, Google and Microsoft seeking supply locks of five years or more.",
-   "The memory business is shifting from quarterly pricing to a long-term-contract model, leaving shrinking spot availability for distributors and the open market."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "KED Global",
-  "title": "Samsung Locks Up 75–80% of 2027 Memory Output in Long-Term Deals"
- },
- {
-  "body": [
-   "NXP's Ara240, a discrete neural-network processor for the edge delivering up to 40 eTOPS, enables local inference of LLMs and vision-language models without cloud dependency.",
-   "Mouser began stocking the part on October 5. The chip pairs with 16 GB of LPDDR4, connects via PCIe Gen4 and USB 3.2, and includes secure boot with a hardware root of trust."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "Mouser Electronics",
-  "title": "NXP Ara240 Edge AI Processor Hits Mouser Shelves"
- },
- {
-  "body": [
-   "AMD CEO Lisa Su said in Taipei on October 6 that demand has outstripped supply and the company plans to substantially increase chip supply in 2027.",
-   "The Asia trip is capacity-focused: meetings with Foxconn and TSMC in Taiwan, plus planned talks with Samsung and SK Hynix in Korea on memory supply."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "Reuters",
-  "title": "AMD Plans Substantial Supply Increase in 2027, CEO Says"
- },
- {
-  "body": [
-   "ST launched two 6-axis IMUs with dual accelerometers in a single package: the consumer-grade LSM6DSK320X and the industrial-grade ISM6HGK256X.",
-   "A symmetric mirrored gyroscope structure cancels vibration and shock, while the dual accelerometers capture micro-motion and high-g events simultaneously without range switching. Ranges span ±16g to ±320g, the industrial part is rated from −40°C to +105°C, and adapter boards ship from November 2026."
-  ],
-  "date": "Oct 11, 2026",
-  "sources": "EDN Asia",
-  "title": "ST Adds Dual-Accelerometer 6-Axis IMUs"
- },
- {
-  "body": [
-   "Taiwan prosecutors indicted ten people for buying controlled chips from Analog Devices and Texas Instruments under the guise of a Taiwanese research institute since 2017, relabeling chips made in overseas factories as \"Made in Taiwan\" and reselling them to China via Hong Kong.",
-   "Prosecutors are seeking a 10-year sentence for the ringleader; illicit profits totaled NT$300 million (about US$9.4 million)."
-  ],
-  "date": "Oct 10, 2026",
-  "sources": "GMA News",
-  "title": "Taiwan Indicts 10 for Relabeling US-Controlled Chips for Resale to China"
- },
- {
-  "body": [
-   "Samsung's preliminary third-quarter results set a record at 107.4 trillion won, driven almost entirely by the memory business, with memory margins reportedly exceeding Nvidia's.",
-   "HBM is consuming a disproportionate share of wafer capacity, and brokerages expect the rally in conventional memory to extend into next year."
-  ],
-  "date": "Oct 10, 2026",
-  "sources": "SE Daily",
-  "title": "Samsung's Memory Margins Top Nvidia's as Q3 Profit Hits Record"
- },
- {
-  "body": [
-   "Infineon has completed its acquisition of Bangalore-based C2i Semiconductor, buying its digital power-control capabilities for AI data center power.",
-   "C2i's software-defined multiphase controllers and smart power stages will be integrated with Infineon's silicon, SiC and GaN power semiconductor portfolios."
-  ],
-  "date": "Oct 10, 2026",
-  "sources": "SemiMedia",
-  "title": "Infineon Completes Acquisition of C2i Semiconductor"
- },
- {
-  "body": [
-   "Microchip's MTCH3380P and MTCH3240P are its first turnkey touch controllers for buttons, sliders and wheels in screenless HMI, with 12 on-chip ADCs sampling touch signals in parallel so responsiveness holds as sensor counts grow.",
-   "The MTCH3380P is priced at US$1.06 and the MTCH3240P at US$0.80 in 10,000-unit quantities."
-  ],
-  "date": "Oct 10, 2026",
-  "sources": "CXOtoday",
-  "title": "Microchip Debuts First Parallel-Sensing Touch Controllers"
- },
- {
-  "body": [
-   "ASML issued a rare blanket price increase to Samsung Electronics and SK Hynix: all EUV and DUV lithography parts for the Korean market rise 10% for deliveries from January 2027.",
-   "If the two Korean fabs accept, the move sets a precedent for Applied Materials, Tokyo Electron and other equipment vendors to follow with their own increases."
-  ],
-  "date": "Oct 10, 2026",
-  "sources": "Sina Finance",
-  "title": "ASML Raises All Lithography Parts Prices 10% for Korean Market"
- },
- {
-  "body": [
-   "Infineon released a three-phase PSU reference design for AI server racks built entirely from its own parts — CoolSiC and CoolMOS, EiceDRIVER, XENSIV sensors and PSoC — with peak efficiency above 98%.",
-   "The design debuts at the OCP Global Summit in San Jose starting October 12."
-  ],
-  "date": "Oct 10, 2026",
-  "sources": "bitcoinversus.tech",
-  "title": "Infineon Unveils 27 kW 3-Phase PSU for AI Server Racks"
- },
- {
-  "date": "Oct 11, 2026",
-  "title": "Eswei Computing Lists in Hong Kong as \"First RISC-V Stock,\" Valued at HK$35.4 Billion",
-  "body": [
-   "Beijing Eswei Computing (01256.HK) debuted on the HKEX main board on October 9 at HK$1.55 per share, closing day one at HK$1.605 for a market capitalization of HK$35.4 billion. Founded in 2019 by BOE founder Wang Dongsheng, the company is China's largest domestic supplier of human-machine-interface chips and ranks third among Chinese vendors in RISC-V controller chips.",
-   "Revenue grew from RMB 1.75 billion in 2023 to RMB 2.43 billion in 2025, though cumulative net losses over the period reached RMB 4.9 billion on R&D spending that has long exceeded half of revenue. The bright spot is the computing-chip business: its revenue share jumped from 13.2% in 2025 to 45.1% in Q1 2026, driven by a RISC-V AI SoC program for large-model inference already adopted by a leading consumer storage maker.",
-   "The roughly HK$2.4 billion raised will fund chip R&D, RISC-V ecosystem building and potential strategic acquisitions."
-  ],
-  "sources": "eefocus.com"
- },
- {
-  "date": "Oct 11, 2026",
-  "title": "Wolfspeed Secures US$1.5 Billion Conditional Loan from US Department of War for GaN-on-SiC",
-  "body": [
-   "Wolfspeed announced on October 7 that it has received a conditional commitment letter from the US Department of War's Office of Strategic Capital for up to US$1.5 billion in 30-year financing to build a domestic wide-bandgap semiconductor supply chain. The funding will upgrade its GaN epitaxy capabilities for next-generation communications infrastructure and electronic-warfare systems, and develop radiation-hardened technology for SiC and future GaN products.",
-   "As part of the arrangement, Wolfspeed expects to issue warrants to the Department of War for up to 7.5% of its fully diluted equity, disbursed pro rata with funding tranches.",
-   "The move sharpens a strategic pivot: after selling its GaN-on-SiC RF business to MACOM for US$125 million in 2023, Wolfspeed has shifted from an RF-device IDM model to a materials supplier focused on semi-insulating SiC substrates and GaN epitaxy."
-  ],
-  "sources": "eefocus.com"
- },
- {
-  "date": "Oct 11, 2026",
-  "title": "Bluetooth Chip Shipments to Hit 10.3 Billion by 2032 as Growth Shifts to Data Bluetooth",
-  "body": [
-   "Global Bluetooth chip shipments will grow from 8.3 billion units in 2025 to 10.3 billion in 2032, a 3.2% CAGR, according to Techno Systems Research's 2026 Wireless Connectivity Market Analysis. The bigger story is the mix shift: audio Bluetooth SoCs still hold 61% share in 2025, but data Bluetooth is catching up fast, with the two segments expected to reach roughly 50:50 by 2031–2032 as IoT applications expand.",
-   "In BLE single-mode SoCs, Nordic Semiconductor leads with 21% of shipments and 36% of revenue. Four Chinese vendors including Telink and PHYPlus hold a combined 29% of shipments but only 9% of revenue — a low-price strategy concentrated at the mid-to-low end.",
-   "Edge AI is becoming the key differentiator for BLE SoCs, moving from TinyML toward DSP/NPU-integrated parts for sensor fusion and on-device inference, with Nordic and Silicon Labs in the lead."
-  ],
-  "sources": "eefocus.com"
- },
- {
-  "date": "Oct 11, 2026",
-  "title": "Beijing Shimu Microelectronics Closes Series B+ Round Led by Industrial Investors",
-  "body": [
-   "Beijing Shimu Microelectronics (士模微电子), a high-performance signal-chain chipmaker, has closed a Series B+ financing round of undisclosed size, with the checks written by downstream customers — test-equipment maker Shenzhen Jingzhida and CRRC Times High-Tech Investment. Founded in 2021 by Tsinghua professor and IEEE Fellow Nan Sun, the company targets data converters, the hardest analog segment to localize.",
-   "Its high-speed, high-precision ADC CM3452 consumes about 960 mW, roughly one-third of international competitors, and is reportedly the first such chip taped out and mass-produced at a domestic foundry.",
-   "The deal highlights a structural gap: China consumes about one-third of the world's analog chips, yet overall self-sufficiency is only 16–18%, falling to 10–15% in industrial grades and about 5% in automotive, where high-end ADCs remain dominated by TI and ADI."
-  ],
-  "sources": "eefocus.com"
- },
- {
-  "date": "Oct 11, 2026",
-  "title": "Domestic Brands Take Over 60% of China's Servo Market as Industrial Chip Localization Deepens",
-  "body": [
-   "China's general servo market rebounded to RMB 23 billion in 2025, with domestic brands capturing over 60% share for the first time — up from under 50% five years ago — while Japanese brands fell from over 50% to about 26%, according to a 2026 industry white paper. In low-voltage inverters, a RMB 29.3 billion market, domestic brands reached 46%, breaking long-standing foreign monopolies.",
-   "Local power-device makers are graduating from pure suppliers to strategic partners co-defining products with machine builders: StarPower develops custom IGBT/SiC modules with Inovance, while Silan fields an integrated \"MCU + power module + gate-driver IC\" portfolio.",
-   "Gaps remain at the high end — domestic high-end IGBT/SiC modules still lag in long-term reliability and batch consistency, and SiC cost barriers are slowing adoption in mid-to-low-end equipment, where price wars are squeezing R&D budgets."
-  ],
-  "sources": "eefocus.com"
- },
- {
-  "date": "Oct 10, 2026",
-  "title": "onsemi's Second 2026 Price Hike Takes Effect — Power Semis in a Full Upcycle",
-  "body": [
-   "onsemi's second price increase of 2026 takes effect today (October 10), covering a broad range of product lines. The company cites persistently rising costs across raw materials, manufacturing, energy and infrastructure — alongside growing demand from power, industrial and datacenter markets. It follows an earlier round of increases in the first half of the year.",
-   "This is not an isolated move. 2026 has turned into a broad-based power-semiconductor repricing: Texas Instruments, Infineon and STMicroelectronics have all implemented increases, Renesas has announced its second hike (effective January 2027), and Taiwan suppliers are reportedly planning 10–15% increases on spot products from October.",
-   "Behind the cost pass-through sits a genuine demand shift: as AI rack power climbs toward the megawatt range, power architectures are migrating from 48V to 800V HVDC — lifting per-rack content for SiC, GaN and high-efficiency MOSFETs."
-  ],
-  "sources": "ESM China; stcn.com · yicai.com · technews.tw"
- }
+  {
+    "date": "Oct 12, 2026",
+    "title": "Mature-Node Foundry Prices Climb Again in 2026 as 8-Inch Capacity Shrinks",
+    "body": [
+      "Price-hike signals in 2026 have spread from advanced compute and memory into 8-inch foundry services, select 12-inch mature processes, and power devices, with eefocus describing the repricing as structural rather than a repeat of the 2021 shortage.",
+      "The timeline: SMIC notified customers late last year of an ~10% increase on 8-inch BCD platforms; TrendForce's January survey found some fabs planning 5%-20% increases; and Chinese power-device vendors including CR Micro, Yangjie, Silan, NCE and MacroMicro announced February adjustments covering MOSFETs, IGBTs and related products.",
+      "Through mid-year, Infineon moved customers to new prices effective April 1, STMicroelectronics raised prices in March and again from June 28, and TrendForce's end-June survey showed ~5%-15% average increases on 8-inch foundry across the first half, with 5%-10% increases emerging on tight 12-inch mature nodes in Q2-Q3.",
+      "On the capacity side, TrendForce projects TSMC and Samsung will shrink 8-inch capacity faster than additions from SMIC and Vanguard can offset, leaving global 8-inch capacity down ~2.4% year-on-year in 2026.",
+      "A key driver is AI: AI server power chains are lifting demand for power management, gate drivers, MOSFETs, DrMOS and smart power stages — demand that runs on mature platforms rather than leading-edge logic."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 12, 2026",
+    "title": "Empyrean's Liu Weiping: Domestic EDA Crosses 'Usable' Threshold, Agentic AI May Reshape the Industry",
+    "body": [
+      "Speaking at CIIF 2026's dedicated IC exhibition in Shanghai on October 12, Empyrean Technology chairman Liu Weiping said commercially deployable domestic EDA tools now cover about 85% of design needs, with nearly 10% at world-leading levels; process-node ecosystem coverage stands near 50% and is targeted at 80% this year.",
+      "Empyrean serves nearly 800 customers globally, including seven or eight of the world's top ten chip designers, with more than 6,000 chips designed using its tools.",
+      "Liu set three next-phase tasks for China's EDA: supporting indigenous advanced processes, adapting to new 'folded' circuit design methodologies that foreign tools will not support, and rebuilding tool efficiency with AI — where agentic EDA, he said, could change the shape of the entire industry."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 12, 2026",
+    "title": "Hua Hong's Bai Peng: US$1 Trillion Chip Market Arrives a Year Early; Mature Specialty Nodes 'Must Not Be Ignored'",
+    "body": [
+      "At CIIF 2026 in Shanghai, Hua Hong Semiconductor chairman and president Bai Peng said the global IC market will cross US$1 trillion in 2026 — a year earlier than the previously forecast 2027 — driven by AI compute infrastructure and a memory rebound.",
+      "The mature-process (22nm and above) foundry market is expected to exceed US$60 billion in 2026, about 27% of global foundry, he said, with mature nodes growing around 6.8% annually — still a stable-growth market, not a shrinking one.",
+      "China's foundry capacity now accounts for one-third of the global total, expanding at over 10% CAGR versus 4-5% worldwide; Hua Hong aims to lift its specialty-process ASP ratio from 66% in 2024 to 76% by 2030, targeting 30%, 50%, 20%, 40% and 35% global foundry shares in eFlash, SPI NOR, BCD, CIS and discrete devices respectively by 2030."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 12, 2026",
+    "title": "Xianyi Micro Closes Series A to Scale Magnetic-Isolation Chips, Sets Up East China HQ in Wuxi",
+    "body": [
+      "Shenzhen-based Xianyi Microelectronics, which says it is China's first commercial magnetic-isolation chip company, has closed a Series A round worth tens of millions of yuan led by Xizhou International, and established its East China headquarters in Binhu, Wuxi.",
+      "The company says it built China's first commercial magnetic-isolation process line and now offers nearly 300 magnetic-isolation products across signal, interface, driver and power lines, with automotive products AEC-Q100 qualified and in volume supply for industrial and energy-storage applications.",
+      "The Wuxi base will serve as its East China R&D and support center, tapping the Yangtze River Delta customer cluster as demand grows in AI compute power infrastructure, solid-state transformers and embodied intelligence — areas where high-voltage isolation requirements are intensifying."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 12, 2026",
+    "title": "Four SiC Projects in China Accelerate Toward Production",
+    "body": [
+      "Four silicon carbide projects across China reported fresh progress this week, signaling continued capacity expansion in the third-generation semiconductor race.",
+      "Lips' Yangzhou SiC project, a provincial major project with total investment of 1 billion yuan (180 million yuan in phase one), will deliver its first phase — two automotive-grade SiC module packaging and testing lines with annual capacity of 1.5 million units — by year-end 2026; full build-out targets 3 million units per year.",
+      "Galaxy Microelectronics topped out the main structure of its Changzhou base on October 8 and expects trial production in Q2 next year; at full capacity it will produce 50 million IGBT and SiC power modules annually.",
+      "Xinjia Electronics said its fully automated automotive-grade SiC module line is already running at full load with 600,000 units of annual capacity, with products qualified into supply chains of leading domestic automakers; two more lines planned for next year would lift capacity to 1.5 million automotive-grade and 4 million industrial-grade units per year by late 2027 or early 2028.",
+      "Zhongyi Chuangxin reported its optical-grade SiC powder project — supplying semi-insulating SiC powder for AR glasses lenses — is 80% complete since construction began in June."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 12, 2026",
+    "title": "Global AI Compute Market Nears US$1.2 Trillion in 2026, Industry Data Shows",
+    "body": [
+      "Industry research reports cited in the coverage put global computing capacity at 4,495 EFlops as of June 2025, up 117% year on year, with intelligent computing accounting for 85% of the total — marking a structural shift from general to intelligent computing.",
+      "The global AI compute market is approaching US$1.2 trillion in 2026; the AI semiconductor market is estimated at about US$485 billion this year, on track for roughly US$753 billion by 2030, while global semiconductor spending hit US$793 billion in 2025, up 21%.",
+      "Capital is flooding in: global data center capex rose 57% in 2025 and is expected to exceed US$1 trillion in 2026, driven by more than 10 million high-end accelerators, with AI infrastructure spending already surpassing US$1.3 trillion.",
+      "China's computing capacity reached 962 EFlops — about 21% of the global total, up 73% year on year — and domestic AI accelerator shipments keep climbing: Nvidia holds about 55% of China's AI card market (2.2 million units), domestic vendors a combined 41% (1.65 million), and AMD and others about 4% of a roughly 4-million-unit total."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 12, 2026",
+    "title": "TSMC Taps GlobalFoundries in US$2 Billion Silicon Interposer Deal for CoWoS",
+    "body": [
+      "GlobalFoundries announced on October 8 a multi-year manufacturing agreement with TSMC: GF will expand silicon interposer capacity at its Malta, New York fab to supply TSMC's CoWoS advanced-packaging ecosystem, in a deal worth an estimated US$2 billion over an initial five-year term, with volume ramp expected in the first half of 2028.",
+      "The deal makes GF the first US-based supplier of silicon interposers for advanced packaging, adding a clear supply-chain regionalization dimension to what is otherwise a pure capacity play.",
+      "Counterpoint Research estimates TSMC's CoWoS supply-demand gap at about 20% in 2026, narrowing to roughly 10% in 2027 as internal capacity expands toward 185,000 wafers per month; TrendForce expects TSMC's 2026 average monthly CoWoS capacity at 120,000–140,000 wafers — a record — with 2027 capacity up more than 60%.",
+      "Yole Group data cited in the coverage puts the global advanced-packaging market at about US$44.3 billion in 2022, growing to roughly US$78.6 billion by 2028 at a compound annual rate of around 10%, with AI demand as the core driver."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "body": [
+      "The mystery \"Party A\" in Synaptics' October 8 proxy filing is Cirrus Logic, which made an unsolicited rival bid in September after onsemi's approach, Bloomberg reported citing people familiar with the matter.",
+      "onsemi revised its proposal on October 1 to an all-cash transaction worth about US$5.7 billion (US$123 per share), replacing its original all-stock offer valued at roughly US$7 billion."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "Bloomberg via Seeking Alpha",
+    "title": "Cirrus Logic Named as Rival Bidder for Synaptics as onsemi Switches to All-Cash Offer"
+  },
+  {
+    "body": [
+      "Nomura expects China's wafer-fab equipment market to grow at a compound rate of about 19% from FY2025 to FY2030, lifting China's chip self-sufficiency from roughly 34% in FY2025 to about 47% in FY2030.",
+      "Upstream wafer suppliers are moving first: Shin-Etsu Chemical, SUMCO and GlobalWafers have all announced two rounds of price increases for 2026."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "Nomura via Sina Finance",
+    "title": "Nomura: China's Semiconductor Equipment Market Could Top US$100 Billion in FY2027"
+  },
+  {
+    "body": [
+      "AMD's space-grade Versal AI Core XQRVC1902 is now sampling with early customers and is aimed at MIL-PRF-38535 Class Y, the highest reliability certification for space electronics.",
+      "The lidless organic package is designed for missions lasting up to 15 years and is fully pin-compatible with the existing VC1902 device family."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "Futurum Group",
+    "title": "AMD Ships Space-Grade Versal XQRVC1902 Targeting 15-Year Missions"
+  },
+  {
+    "body": [
+      "Microchip announced on October 9 that it has acquired VORAGO Technologies, an Austin-based private company whose radiation-hardened chips operate in high-radiation environments and at temperatures up to 200°C, serving aerospace, defense and industrial mission-critical applications.",
+      "Terms were not disclosed; Microchip said the acquisition will have no material impact on combined financial results. The deal strengthens its aerospace and defense solutions portfolio."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "GlobeNewswire (Microchip)",
+    "title": "Microchip Acquires Radiation-Hardened Chipmaker VORAGO Technologies"
+  },
+  {
+    "body": [
+      "Infineon's new automotive-grade cluster MCU, the TRAVEO T2G CYT4EN, pairs with external LPDDR4 memory to render 2.5D graphics and 3D content, driving dual Full HD displays without a separate SoC.",
+      "The memory subsystem was co-optimized with Micron, the chip supports ASIL-B functional safety, boots in under 150 milliseconds, and is available now."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "electronicsmedia.info",
+    "title": "Infineon Launches TRAVEO T2G CYT4EN Automotive Cluster MCU"
+  },
+  {
+    "body": [
+      "Samsung has told its supply chain it will cut fourth-quarter phone supply by 20–30%, as surging memory prices erase handset margins.",
+      "AI data centers have diverted wafer capacity away from mobile DRAM, pushing mobile memory contract prices up 175% over the past year. Samsung's full-year phone output is now expected at around 200 million units, down from 270 million."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "SamMobile",
+    "title": "Samsung Cuts Q4 Phone Supply by up to 30% as Memory Prices Bite"
+  },
+  {
+    "body": [
+      "The reference design, announced October 5, collapses rack power conversion from two stages to one — converting 800V DC directly to 6V DC and skipping the intermediate 50V bus.",
+      "It targets 96% full-load efficiency and 2,100 W/in³ power density, pairing Microchip's dsPIC33AK digital controller with 16 Navitas NV6034 GaN FETs. Reference boards, software and design documentation open to developers at the OCP Global Summit in San Jose, October 12–15."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "GlobeNewswire (Navitas)",
+    "title": "Navitas and Microchip Unveil 800V Reference Design for AI Data Centers"
+  },
+  {
+    "body": [
+      "Samsung has pre-committed roughly 75–80% of next year's memory capacity to long-term agreements, with Nvidia, Google and Microsoft seeking supply locks of five years or more.",
+      "The memory business is shifting from quarterly pricing to a long-term-contract model, leaving shrinking spot availability for distributors and the open market."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "KED Global",
+    "title": "Samsung Locks Up 75–80% of 2027 Memory Output in Long-Term Deals"
+  },
+  {
+    "body": [
+      "NXP's Ara240, a discrete neural-network processor for the edge delivering up to 40 eTOPS, enables local inference of LLMs and vision-language models without cloud dependency.",
+      "Mouser began stocking the part on October 5. The chip pairs with 16 GB of LPDDR4, connects via PCIe Gen4 and USB 3.2, and includes secure boot with a hardware root of trust."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "Mouser Electronics",
+    "title": "NXP Ara240 Edge AI Processor Hits Mouser Shelves"
+  },
+  {
+    "body": [
+      "AMD CEO Lisa Su said in Taipei on October 6 that demand has outstripped supply and the company plans to substantially increase chip supply in 2027.",
+      "The Asia trip is capacity-focused: meetings with Foxconn and TSMC in Taiwan, plus planned talks with Samsung and SK Hynix in Korea on memory supply."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "Reuters",
+    "title": "AMD Plans Substantial Supply Increase in 2027, CEO Says"
+  },
+  {
+    "body": [
+      "ST launched two 6-axis IMUs with dual accelerometers in a single package: the consumer-grade LSM6DSK320X and the industrial-grade ISM6HGK256X.",
+      "A symmetric mirrored gyroscope structure cancels vibration and shock, while the dual accelerometers capture micro-motion and high-g events simultaneously without range switching. Ranges span ±16g to ±320g, the industrial part is rated from −40°C to +105°C, and adapter boards ship from November 2026."
+    ],
+    "date": "Oct 11, 2026",
+    "sources": "EDN Asia",
+    "title": "ST Adds Dual-Accelerometer 6-Axis IMUs"
+  },
+  {
+    "body": [
+      "Taiwan prosecutors indicted ten people for buying controlled chips from Analog Devices and Texas Instruments under the guise of a Taiwanese research institute since 2017, relabeling chips made in overseas factories as \"Made in Taiwan\" and reselling them to China via Hong Kong.",
+      "Prosecutors are seeking a 10-year sentence for the ringleader; illicit profits totaled NT$300 million (about US$9.4 million)."
+    ],
+    "date": "Oct 10, 2026",
+    "sources": "GMA News",
+    "title": "Taiwan Indicts 10 for Relabeling US-Controlled Chips for Resale to China"
+  },
+  {
+    "body": [
+      "Samsung's preliminary third-quarter results set a record at 107.4 trillion won, driven almost entirely by the memory business, with memory margins reportedly exceeding Nvidia's.",
+      "HBM is consuming a disproportionate share of wafer capacity, and brokerages expect the rally in conventional memory to extend into next year."
+    ],
+    "date": "Oct 10, 2026",
+    "sources": "SE Daily",
+    "title": "Samsung's Memory Margins Top Nvidia's as Q3 Profit Hits Record"
+  },
+  {
+    "body": [
+      "Infineon has completed its acquisition of Bangalore-based C2i Semiconductor, buying its digital power-control capabilities for AI data center power.",
+      "C2i's software-defined multiphase controllers and smart power stages will be integrated with Infineon's silicon, SiC and GaN power semiconductor portfolios."
+    ],
+    "date": "Oct 10, 2026",
+    "sources": "SemiMedia",
+    "title": "Infineon Completes Acquisition of C2i Semiconductor"
+  },
+  {
+    "body": [
+      "Microchip's MTCH3380P and MTCH3240P are its first turnkey touch controllers for buttons, sliders and wheels in screenless HMI, with 12 on-chip ADCs sampling touch signals in parallel so responsiveness holds as sensor counts grow.",
+      "The MTCH3380P is priced at US$1.06 and the MTCH3240P at US$0.80 in 10,000-unit quantities."
+    ],
+    "date": "Oct 10, 2026",
+    "sources": "CXOtoday",
+    "title": "Microchip Debuts First Parallel-Sensing Touch Controllers"
+  },
+  {
+    "body": [
+      "ASML issued a rare blanket price increase to Samsung Electronics and SK Hynix: all EUV and DUV lithography parts for the Korean market rise 10% for deliveries from January 2027.",
+      "If the two Korean fabs accept, the move sets a precedent for Applied Materials, Tokyo Electron and other equipment vendors to follow with their own increases."
+    ],
+    "date": "Oct 10, 2026",
+    "sources": "Sina Finance",
+    "title": "ASML Raises All Lithography Parts Prices 10% for Korean Market"
+  },
+  {
+    "body": [
+      "Infineon released a three-phase PSU reference design for AI server racks built entirely from its own parts — CoolSiC and CoolMOS, EiceDRIVER, XENSIV sensors and PSoC — with peak efficiency above 98%.",
+      "The design debuts at the OCP Global Summit in San Jose starting October 12."
+    ],
+    "date": "Oct 10, 2026",
+    "sources": "bitcoinversus.tech",
+    "title": "Infineon Unveils 27 kW 3-Phase PSU for AI Server Racks"
+  },
+  {
+    "date": "Oct 11, 2026",
+    "title": "Eswei Computing Lists in Hong Kong as \"First RISC-V Stock,\" Valued at HK$35.4 Billion",
+    "body": [
+      "Beijing Eswei Computing (01256.HK) debuted on the HKEX main board on October 9 at HK$1.55 per share, closing day one at HK$1.605 for a market capitalization of HK$35.4 billion. Founded in 2019 by BOE founder Wang Dongsheng, the company is China's largest domestic supplier of human-machine-interface chips and ranks third among Chinese vendors in RISC-V controller chips.",
+      "Revenue grew from RMB 1.75 billion in 2023 to RMB 2.43 billion in 2025, though cumulative net losses over the period reached RMB 4.9 billion on R&D spending that has long exceeded half of revenue. The bright spot is the computing-chip business: its revenue share jumped from 13.2% in 2025 to 45.1% in Q1 2026, driven by a RISC-V AI SoC program for large-model inference already adopted by a leading consumer storage maker.",
+      "The roughly HK$2.4 billion raised will fund chip R&D, RISC-V ecosystem building and potential strategic acquisitions."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 11, 2026",
+    "title": "Wolfspeed Secures US$1.5 Billion Conditional Loan from US Department of War for GaN-on-SiC",
+    "body": [
+      "Wolfspeed announced on October 7 that it has received a conditional commitment letter from the US Department of War's Office of Strategic Capital for up to US$1.5 billion in 30-year financing to build a domestic wide-bandgap semiconductor supply chain. The funding will upgrade its GaN epitaxy capabilities for next-generation communications infrastructure and electronic-warfare systems, and develop radiation-hardened technology for SiC and future GaN products.",
+      "As part of the arrangement, Wolfspeed expects to issue warrants to the Department of War for up to 7.5% of its fully diluted equity, disbursed pro rata with funding tranches.",
+      "The move sharpens a strategic pivot: after selling its GaN-on-SiC RF business to MACOM for US$125 million in 2023, Wolfspeed has shifted from an RF-device IDM model to a materials supplier focused on semi-insulating SiC substrates and GaN epitaxy."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 11, 2026",
+    "title": "Bluetooth Chip Shipments to Hit 10.3 Billion by 2032 as Growth Shifts to Data Bluetooth",
+    "body": [
+      "Global Bluetooth chip shipments will grow from 8.3 billion units in 2025 to 10.3 billion in 2032, a 3.2% CAGR, according to Techno Systems Research's 2026 Wireless Connectivity Market Analysis. The bigger story is the mix shift: audio Bluetooth SoCs still hold 61% share in 2025, but data Bluetooth is catching up fast, with the two segments expected to reach roughly 50:50 by 2031–2032 as IoT applications expand.",
+      "In BLE single-mode SoCs, Nordic Semiconductor leads with 21% of shipments and 36% of revenue. Four Chinese vendors including Telink and PHYPlus hold a combined 29% of shipments but only 9% of revenue — a low-price strategy concentrated at the mid-to-low end.",
+      "Edge AI is becoming the key differentiator for BLE SoCs, moving from TinyML toward DSP/NPU-integrated parts for sensor fusion and on-device inference, with Nordic and Silicon Labs in the lead."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 11, 2026",
+    "title": "Beijing Shimu Microelectronics Closes Series B+ Round Led by Industrial Investors",
+    "body": [
+      "Beijing Shimu Microelectronics (士模微电子), a high-performance signal-chain chipmaker, has closed a Series B+ financing round of undisclosed size, with the checks written by downstream customers — test-equipment maker Shenzhen Jingzhida and CRRC Times High-Tech Investment. Founded in 2021 by Tsinghua professor and IEEE Fellow Nan Sun, the company targets data converters, the hardest analog segment to localize.",
+      "Its high-speed, high-precision ADC CM3452 consumes about 960 mW, roughly one-third of international competitors, and is reportedly the first such chip taped out and mass-produced at a domestic foundry.",
+      "The deal highlights a structural gap: China consumes about one-third of the world's analog chips, yet overall self-sufficiency is only 16–18%, falling to 10–15% in industrial grades and about 5% in automotive, where high-end ADCs remain dominated by TI and ADI."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 11, 2026",
+    "title": "Domestic Brands Take Over 60% of China's Servo Market as Industrial Chip Localization Deepens",
+    "body": [
+      "China's general servo market rebounded to RMB 23 billion in 2025, with domestic brands capturing over 60% share for the first time — up from under 50% five years ago — while Japanese brands fell from over 50% to about 26%, according to a 2026 industry white paper. In low-voltage inverters, a RMB 29.3 billion market, domestic brands reached 46%, breaking long-standing foreign monopolies.",
+      "Local power-device makers are graduating from pure suppliers to strategic partners co-defining products with machine builders: StarPower develops custom IGBT/SiC modules with Inovance, while Silan fields an integrated \"MCU + power module + gate-driver IC\" portfolio.",
+      "Gaps remain at the high end — domestic high-end IGBT/SiC modules still lag in long-term reliability and batch consistency, and SiC cost barriers are slowing adoption in mid-to-low-end equipment, where price wars are squeezing R&D budgets."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 10, 2026",
+    "title": "onsemi's Second 2026 Price Hike Takes Effect — Power Semis in a Full Upcycle",
+    "body": [
+      "onsemi's second price increase of 2026 takes effect today (October 10), covering a broad range of product lines. The company cites persistently rising costs across raw materials, manufacturing, energy and infrastructure — alongside growing demand from power, industrial and datacenter markets. It follows an earlier round of increases in the first half of the year.",
+      "This is not an isolated move. 2026 has turned into a broad-based power-semiconductor repricing: Texas Instruments, Infineon and STMicroelectronics have all implemented increases, Renesas has announced its second hike (effective January 2027), and Taiwan suppliers are reportedly planning 10–15% increases on spot products from October.",
+      "Behind the cost pass-through sits a genuine demand shift: as AI rack power climbs toward the megawatt range, power architectures are migrating from 48V to 800V HVDC — lifting per-rack content for SiC, GaN and high-efficiency MOSFETs."
+    ],
+    "sources": "ESM China; stcn.com · yicai.com · technews.tw"
+  }
 ]
