@@ -49,6 +49,10 @@ a.chip:hover{color:var(--blue);border-color:var(--blue)}
 .brand-card .bfull{font-size:14px;color:var(--muted);margin-top:6px}
 .brand-card .btag{display:inline-block;margin-top:14px;font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:#fff;background:var(--blue);padding:5px 14px;border-radius:999px}
 .brand-more{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-bottom:18px}
+.brand-wall.all-brands{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.brand-wall.all-brands .brand-card{padding:22px 12px}
+.brand-wall.all-brands .bname{font-size:19px}
+.brand-wall.all-brands .bfull{font-size:12px}
 .disclaimer{font-size:12.5px;color:#9db1d1;text-align:center;max-width:720px;margin:0 auto}
 
 /* ---------- trust strip ---------- */
