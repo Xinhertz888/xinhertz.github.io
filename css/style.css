@@ -129,7 +129,7 @@ p.sec-sub{text-align:center;color:var(--muted);max-width:700px;margin:0 auto 44p
 .method{background:#fff;border:1px solid var(--line);border-radius:14px;padding:24px;text-align:center;transition:border-color .2s}
 .method:hover{border-color:var(--blue)}
 .method .m-label{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1.5px;margin-bottom:8px}
-.method .m-value{font-size:17px;font-weight:700;color:var(--text);word-break:break-all}
+.method .m-value{font-size:17px;font-weight:700;color:var(--text);overflow-wrap:break-word}
 
 /* ---------- cta band ---------- */
 .cta-band{background:linear-gradient(135deg,#0b5ed7,#0849a8);text-align:center;padding:68px 0;color:#fff}
