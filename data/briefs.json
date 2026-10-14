@@ -1,6 +1,66 @@
 [
   {
     "date": "Oct 14, 2026",
+    "title": "CanSemi Lists on ChiNext as Guangdong's First 12-Inch Fab, Shares Jump 275% on Debut",
+    "body": [
+      "CanSemi, Guangzhou's 12-inch specialty foundry, debuted on Shenzhen's ChiNext board on October 13, with shares opening 275% above the 12.01-yuan issue price at 45.00 yuan, valuing the company at 129.5 billion yuan.",
+      "The listing makes it the first 12-inch wafer manufacturer developed and brought to mass production in Guangdong province, where it has helped the region break from zero in 12-inch wafer manufacturing.",
+      "The company plans to use the 7.5 billion yuan raised on a third 12-inch production phase focused on analog specialty processes, plus research projects for specialty process platforms.",
+      "CanSemi focuses on analog and mixed-signal nodes from 180nm down to 55nm, reported 2025 revenue of 2.58 billion yuan, and ran its fabs at 96.38% utilization last year.",
+      "Planned capacity totals 80,000 wafers per month across its two existing fabs, with a third fab of 40,000 wafers per month under construction, which would bring the combined total to 120,000 wafers per month."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 14, 2026",
+    "title": "Microsoft Unveils Azure Maia 300, Its Third-Generation In-House AI Chip on TSMC 2nm",
+    "body": [
+      "Microsoft has unveiled Azure Maia 300, its third-generation in-house AI inference chip, with the compute chiplet built on TSMC's 2nm process.",
+      "Each accelerator pairs eight HBM4 stacks for 288GB of memory and 18TB/s peak bandwidth, delivering 13.8 PFLOPS of FP4 compute at 950W TDP.",
+      "Compared with Maia 200, memory bandwidth is 2.5 times higher, capacity is up 33%, and rack-level token throughput reaches up to 7 times higher.",
+      "A full rack holds 96 accelerators at 167kW, providing 27.6TB of HBM and 1.7PB/s of aggregate memory bandwidth, and racks scale into a Superpod of up to 12,288 accelerators over a unified electrical-and-optical network.",
+      "CEO Satya Nadella called it the company's biggest bet on in-house silicon to date, saying Maia will expand to gigawatt-scale deployments starting next year as the primary inference system for its own products and services."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 14, 2026",
+    "title": "Nanya Posts Record Q3 as DRAM Prices Surge Over 60%, Net Profit Jumps 5,474%",
+    "body": [
+      "Nanya Technology reported record third-quarter results as DRAM average selling prices surged more than 60% quarter on quarter.",
+      "Revenue reached NT$133.6 billion, up 611.7% year on year, with gross margin at a record 85.7% and net profit of NT$87.6 billion — a 5,474% year-on-year jump and earnings per share of NT$25.40.",
+      "General manager Pei-Ying Lee said AI-driven demand has displaced conventional memory supply, forcing some customers to downgrade specs or even use recycled DRAM, and expects prices to keep rising in the fourth quarter with further gross-margin upside.",
+      "AI-infrastructure applications now contribute over 20% of revenue, and AI-ASIC memory projects with Western customers have begun small-volume shipments.",
+      "The company also confirmed its 5A fab will begin equipment move-in in the first quarter of 2027, the largest single DRAM investment in Taiwan in nearly two decades at up to NT$346.6 billion (about US$10.7 billion)."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 14, 2026",
+    "title": "Four Chinese SiC Startups Close Fresh Funding Rounds",
+    "body": [
+      "Four Chinese silicon-carbide startups have disclosed new funding rounds, underscoring continued capital flowing into the domestic power-semiconductor supply chain.",
+      "Xindongneng Semiconductor, incubated by Macro Micro Technology, closed an over-100-million-yuan Series A to expand capacity and R&D for SiC and GaN plastic-packaged power modules, which have already shipped more than 3.8 million units for automotive main-drive inverters.",
+      "Xixinwei, an advanced-packaging specialist covering IGBT, SiC and RF, completed a several-hundred-million-yuan Series B and is ramping a new Chengdu base targeting 60,000 wafers per month of packaging output across 6- to 12-inch substrates.",
+      "Fermi Electric has accumulated 170 million yuan in funding and says it has built a vertically integrated chain from GaN/SiC chips to power modules and complete systems for solar-storage and marine power applications.",
+      "Xinfufa, founded in April 2026, is raising an 8-million-yuan angel round to tape out 3.3kV and 6.5kV SiC devices targeting rail traction and automotive applications."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 14, 2026",
+    "title": "Xinai Technology Raises Over 1 Billion Yuan, Breaks Ground on Second IC-Substrate Fab",
+    "body": [
+      "Nanjing-based IC-substrate maker Xinai Technology announced over 1 billion yuan in strategic financing and broke ground on its second advanced-packaging-substrate fab during a two-day strategy event on October 12–13.",
+      "The 1-billion-yuan P2 project will run a fully automated line based on semi-additive (SAP) processes for high-end FCBGA substrates, with 9 million units of annual capacity targeting CPUs, GPUs, ASICs, FPGAs and AI accelerators, and is scheduled to come online in May 2027.",
+      "Land for the P3 fab has been secured with construction planned for 2027 and volume production in 2028, maintaining what the company calls a 'one new fab per year' expansion pace.",
+      "The new round is Xinai's third major equity financing, bringing cumulative funding to over 3 billion yuan, earmarked for AI and chiplet-architecture substrate capacity, advanced-process iteration and key-customer delivery.",
+      "The company says its capacity is concentrated on substrates for 6nm, 4nm and 3nm chips, with products for 2nm nodes expected to enter mass production during 2026."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 14, 2026",
     "title": "China's Domestic RF Power Supplies Enter Volume-Production Phase",
     "body": [
       "China's domestically produced RF power supplies are moving from single-point technology breakthroughs into volume deployment at fabs, entering what the industry calls a scale-up phase for localization of this core semiconductor-equipment component.",
