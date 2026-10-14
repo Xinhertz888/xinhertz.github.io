@@ -1,5 +1,17 @@
 [
   {
+    "date": "Oct 14, 2026",
+    "title": "Huawei's Kirin 9050 Pro Brings 'Logic Folding' to Mass Production",
+    "body": [
+      "Huawei held its first offline Kirin-focused media technology briefing in six years on October 13 at its Shanghai Lianqiu Lake campus, where Xu Songyu, head of Huawei's semiconductor wireless terminal chip product management, detailed the Kirin 9050 Pro — the first mass-produced chip built on Huawei's \"logic folding\" technology, a program the company started exploring four years ago. The chip also made its first offline public appearance at Huawei's terminal innovation tech event on October 12.",
+      "Logic folding is not simple die stacking, Huawei says: the chip is designed from the start with a 3D perspective, distributing logic circuits across multiple co-designed DIEs treated as a single chip, which shortens signal routing, raises transistor density, and improves performance and power efficiency.",
+      "The Kirin 9050 series packs over 50 million hybrid bonds and more than 5 million effective signal interconnects, lifting transistor density by 53.5%. For the 9050 Pro specifically, Huawei claims a 12.7% higher CPU clock, 41% better big-core CPU efficiency, 40% higher GPU performance, 45% better GPU efficiency, 140% more NPU compute, and 66% better NPU efficiency.",
+      "Hybrid bonding is the key enabler: with a 720nm top-metal pitch, the bond pitch must stay under 2µm (pitch ratio below 3); Huawei says it has reached 1.5µm and targets 1µm in 2027, with tighter pitches unlocking more high-speed channels and deeper folding.",
+      "Since Kirin's return to the consumer market in 2023, Huawei devices carrying Kirin chips have shipped over 100 million units, the company said. Xu framed the milestone as validation of \"time scaling\" as a sustainable path forward: \"Even though we have temporarily lost geometry-scaling capability, we can still embark on a new 10-year journey.\""
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
     "date": "Oct 13, 2026",
     "title": "Auto Industry Faces Cost 'High Wall' as Memory Prices Spike Post-Holiday",
     "body": [
