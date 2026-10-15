@@ -1,5 +1,56 @@
 [
  {
+  "date": "Oct 15, 2026",
+  "title": "Domestic EUV Light Source Prototype Debuts, Mass Production Seen in 3-5 Years",
+  "body": [
+   "Langdao Suiyan (Shanghai) Technology publicly unveiled its self-developed extreme ultraviolet (EUV) light source system prototype at the 26th China International Industry Fair — described as the most advanced domestically disclosed EUV light source prototype in China to date.",
+   "The company claims a 90% localization rate, with nearly all core components independently designed, developed, and manufactured, and says it follows the same mainstream technology route as leading international vendors.",
+   "For its FlintNano LPP-OXXO low-power EUV light source, the company disclosed full core parameters: drive laser power up to 1,000 W, laser frequency of 1-20 kHz, photoelectric conversion efficiency above 2%, brightness of 100 W/mm²sr, stable EUV output above 15 W, and continuous operation exceeding 100 hours.",
+   "Plasma working size is controlled at 60 μm, with plasma stability error within 3% RMS and overall energy output stability error of 5%. The high-power FlintMicro-LPP line has completed principle verification, while the low-power FlintNano-LPP series has entered commercialization.",
+   "Founded in 2024 as a Tsinghua University spin-off led by Dr. Wang Hao, the company has raised tens of millions of yuan in total and closed a Series A round this July with semiconductor industry capital on board.",
+   "Company engineers said 3 to 5 years of engineering work are still needed before scaled mass production, with output-power scaling and long-term operational stability as the two core challenges."
+  ],
+  "sources": "eet-china.com"
+ },
+ {
+  "date": "Oct 14, 2026",
+  "title": "CXMT's 4F² DRAM Architecture Breakthrough Triggers Global Memory Stock Sell-Off",
+  "body": [
+   "ChangXin Memory Technologies (CXMT) announced key progress on its next-generation 4F² DRAM cell architecture and plans to ship a server DDR5 RDIMM product combining the architecture with hybrid bonding by the end of 2026.",
+   "The news broke the market's consensus that high-end memory would stay in structural shortage, triggering a cross-market sell-off around October 13: SK Hynix plunged 10.09% in a single day, Samsung fell 7.39%, dragging the KOSPI down more than 6% intraday and tripping a circuit breaker.",
+   "Micron dropped more than 4%, SanDisk fell nearly 6-7%, Seagate and Western Digital also slid, while Kioxia closed down over 13%.",
+   "The disruptive point is CXMT's self-developed vertical surrounding-gate (VSG) transistor structure, which shrinks the planar area of a single memory cell by about one-third and lifts theoretical storage density by roughly 50%, significantly lowering cost per bit at the same wafer and node.",
+   "Samsung's own target is mass production of sub-10nm 4F² DRAM in 2028, and SK Hynix only published its 4F² roadmap in 2025 — if CXMT delivers by year-end, it would hold roughly a two-year architecture-level lead.",
+   "According to HSBC, CXMT's global DRAM revenue share has climbed from about 4% a year ago to roughly 10% now, and the market fears scaled low-cost production in conventional server DRAM could undercut the incumbents' supply-discipline pricing model.",
+   "Analysts cautioned the breakthrough won't immediately shake Samsung and SK Hynix's HBM dominance, with volume yield, unit cost, and major server-customer qualification as the key tests ahead."
+  ],
+  "sources": "eet-china.com"
+ },
+ {
+  "date": "Oct 14, 2026",
+  "title": "DigiKey Becomes First Distributor for TDK SensEI's edgeRX Starter",
+  "body": [
+   "DigiKey announced a distribution agreement with TDK SensEI, becoming the first distributor of the edgeRX Starter predictive-maintenance (PdM) solution, which is now available on DigiKey.cn.",
+   "The solution combines AI-driven multimodal sensing with advanced analytics to turn vibration and temperature data into early warnings of equipment issues, helping users spot failure patterns and receive predictive insights and guided recommendations.",
+   "Jason Simoneau, DigiKey's vice president of Passive Devices and Multi-Market Semiconductors, said DigiKey teams already use the solution in their own product fulfillment centers and have seen real benefits.",
+   "TDK SensEI CEO Sandeep Pandya said edgeRX Starter is designed to lower the barrier to predictive maintenance so industrial teams of all sizes — including those with limited resources or in-house expertise — can deploy advanced AI-driven maintenance.",
+   "TDK SensEI (Sensor Edge Intelligence) fuses TDK's sensor systems, software design, and machine learning expertise, with hardware spanning motion, magnetic, microphone, and current sensors plus temperature and battery/energy-harvesting solutions."
+  ],
+  "sources": "eet-china.com"
+ },
+ {
+  "date": "Oct 14, 2026",
+  "title": "Global Electronics Association Publishes IPC-1783-CO2E Carbon Footprint Data Standard",
+  "body": [
+   "The Global Electronics Association (formerly IPC) officially released IPC-1783-CO2E, an international standard for collecting and reporting CO2-equivalent (CO2e) emissions data across the electronics manufacturing supply chain.",
+   "The standard aims to improve the consistency, credibility, and comparability of product carbon footprint data, addressing the industry's long-standing problem of inconsistent measurement, estimation, collection, and reporting methods.",
+   "Francis D'Souza, chair of the IPC-1783-CO2E technical committee and CEO of banyan.eco, said the standard provides a practical, standardized measurement and reporting method together with data quality indicators.",
+   "It helps companies build standardized data methods, support product-level CO2e accounting through activity and process models, strengthen data quality with appropriate methodologies and quality indicators, and stay aligned with the GHG Protocol and relevant ISO principles.",
+   "The standard targets professionals in sustainability, environmental compliance, supply chain, procurement, manufacturing, and product management, and the association says it lays a common foundation for reliable product carbon footprint data."
+  ],
+  "sources": "eet-china.com"
+ },
+ {
   "date": "Oct 14, 2026",
   "title": "AMEC Founder Warns of AI Bubble, Predicts 90% of China's Equipment Vendors Face Elimination",
   "body": [
