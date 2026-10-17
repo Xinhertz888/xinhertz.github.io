@@ -1,5 +1,55 @@
 [
   {
+    "date": "Oct 17, 2026",
+    "title": "SEMI Sees 300mm Fab Equipment Spending Hitting US$227 Billion by 2029",
+    "body": [
+      "SEMI's 300mm Fab Outlook report forecasts global 300mm front-end fab equipment spending at US$149 billion in 2026, up 31% year on year, staying in double-digit growth to reach US$227 billion by 2029. Americas-region investment is projected to climb from US$18.1 billion in 2026 to US$40.6 billion in 2029.",
+      "IDC data shows Nvidia's share of China's data-center AI chip market fell to 34% in the first half of 2026, with shipments of 678,000 accelerators, down 44% year on year. Huawei shipped 572,000 AI accelerators, up roughly 90%, taking 28% of the market. Of the 11 Chinese chipmakers IDC tracks, nine grew shipments year on year; total China AI accelerator shipments reached 2.008 million units, and IDC expects 19% growth for the full year.",
+      "Counterpoint Research's preliminary data shows global Q3 smartphone shipments down 20% year on year — a 14-year Q3 low — as rising DRAM and NAND prices pushed up retail prices by 20% this year. Samsung held 23% share to stay number one, while Apple reached 22%, its first time above 20% in a third quarter."
+    ],
+    "sources": "laoyaoba.com (SEMI; IDC; Counterpoint Research)"
+  },
+  {
+    "body": [
+      "Wuxi-based Zhongxingwei, a relatively low-profile domestic interconnect chipmaker that has spent six years on the segment, held a brand and full-stack product launch where it presented its full-scenario high-performance interconnect chip platform for the first time.",
+      "The lineup spans general-compute interconnect — HBA cards, RAID cards, RoCE NICs and PCIe switch chips for server and storage systems — and AI-compute interconnect, including PCIe switches, 400G InfiniBand NICs and IB switches. The company also launched three self-developed new chips: the C82-4G, described as China's first PCIe 6.0 switch (up to 144 lanes at 64 GT/s per lane, doubling PCIe 5.0 bandwidth), an 800G multi-protocol AI NIC, also described as a domestic first, and a multi-mode RAID chip supporting SAS, SATA and PCIe 5.0 with a built-in hardware encryption engine.",
+      "Zhongxingwei says cumulative shipments have exceeded 800,000 units, with over 400,000 units shipped in 2025 alone and revenue surpassing 1 billion yuan. Its products are in use at Inspur, Lenovo, H3C and ZTE, and it signed strategic cooperation agreements with seven industry partners — Kylinsoft, UnionTech, Tencent Cloud, Inspur, H3C, ZTE and Lenovo."
+    ],
+    "date": "Oct 17, 2026",
+    "sources": "eefocus.com",
+    "title": "Chinese Interconnect Chipmaker Zhongxingwei Unveils Full-Stack Platform, Tops 800,000 Units Shipped"
+  },
+  {
+    "body": [
+      "At CIIF 2026, Chinese chipmaker Axera launched the AX8860 series of large-compute edge AI SoCs, targeting industrial intelligence as AI moves from the cloud to the physical world. The series includes the AX8860 and AX8860P, positioned as compute platforms 'born for physical AI.'",
+      "Built on a 6nm process after 15 months of development, the chips deliver up to 256 TOPS with mixed-precision compute and are among the industry's first edge chips natively supporting FP4 precision. Each chip carries 273 GB/s of memory bandwidth and natively supports 128GB of LPDDR5X; a built-in AXLink chip-to-chip interface enables dual- and quad-chip cascading with memory pooling, reaching 512GB of memory with four chips — enough to run models above 100 billion parameters, such as DeepSeek V4 Flash, at the edge.",
+      "Axera says early AX8860P tests show prefill and decode speeds matching leading international flagship GPUs, while full-load power consumption is only 45% of the competitor's, with multi-chip cascading efficiency holding around 80%. The launch is accompanied by four hardware forms: the A256S core module, PCIe inference cards (single, dual and quad-chip; the quad-chip card offers roughly 1000 TOPS and a 512GB memory pool), the Agentic Box, and edge inference servers."
+    ],
+    "date": "Oct 17, 2026",
+    "sources": "laoyaoba.com",
+    "title": "Axera Launches AX8860 Edge AI SoC Series for Industrial 'Physical AI'"
+  },
+  {
+    "body": [
+      "Chinese RISC-V server-chip startup Ruisixin has closed a new funding round with Renjun Capital and Shuimu Fund participating, according to a report (amount undisclosed). The team comes from the original Berkeley RISC-V project group, and founder Tan Zhangxi studied under RISC-V co-founder David Patterson.",
+      "The round caps a dense financing streak across the sector: Lanxin Computing closed a Series B of nearly 2 billion yuan with 18 investors last month, Lingrui Zhixin raised several hundred million yuan in July, and last year Jindie Shikong, Chaorui Technology and Yuefang Technology each closed nine-figure rounds. Overseas, Tenstorrent raised a $693 million Series D.",
+      "Policy support is also crystallizing: the 15th Five-Year Plan for electronic information manufacturing issued by MIIT and NDRC lists 'advancing 5th-generation RISC (RISC-V) R&D and industrialization' — the first time RISC-V has appeared as a task item in a national five-year plan. The article notes industry-wide consolidation may be next, as competition shifts from single demos to ecosystem completeness and real deployments."
+    ],
+    "date": "Oct 17, 2026",
+    "sources": "eefocus.com",
+    "title": "RISC-V Funding Wave: Ruisixin Closes New Round as Sector Eyes Consolidation"
+  },
+  {
+    "body": [
+      "Chinese AI cloud-compute chip startup Suanmiao Technology announced it has closed its Pre-A2 and A funding rounds, bringing its total fundraising over the past year to nearly 2 billion yuan, according to the report.",
+      "The company focuses on R&D and volume production of large-compute AI cloud chips built on a 3D architecture. It says proceeds are earmarked for three priorities: recruiting top R&D talent, doubling down on core-technology iteration, and accelerating the mass-production ramp of its self-developed 3D TokenPU large-model compute chip.",
+      "Rather than following the conventional GPU route, Suanmiao is betting its 3D chip architecture can carve out a differentiated path in AI inference compute."
+    ],
+    "date": "Oct 17, 2026",
+    "sources": "eefocus.com",
+    "title": "3D-Architecture AI Chip Startup Suanmiao Raises Nearly 2 Billion Yuan in a Year"
+  },
+  {
     "body": [
       "Sanan Optoelectronics (600703.SH) disclosed on the evening of October 15 that creditors Hubei Changjiang Anxin Industry Investment Fund and Hunan Lugu Development Group applied to the Xiamen Intermediate People's Court for bankruptcy restructuring of controlling shareholder Xiamen Sanan Electronics; Hunan Lugu Development Group also filed against indirect controlling shareholder Fujian Sanan Group.",
       "The court has issued notices for both applications but had not formally accepted them as of the announcement date, so whether the companies enter restructuring remains uncertain.",
