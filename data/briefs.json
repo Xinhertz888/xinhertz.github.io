@@ -1,6 +1,48 @@
 [
   {
     "date": "Oct 17, 2026",
+    "title": "China's Equipment Trio Rushes Into Hybrid Bonding: Tuojing's RMB 2.5 Billion Deal Leads",
+    "body": [
+      "On the evening of October 15, Tuojing Technology and NAURA both disclosed acquisition plans targeting hybrid bonding equipment; three days earlier, AMEC's subsidiary announced a capital injection of up to RMB 35 million into bonding firm Qinghe Jingyuan — three major domestic chip-equipment makers moving on the same track within days.",
+      "Tuojing Technology plans to acquire 82.97% of Wuxi Shangji plus 100% each of Wuxi Kuanghang and Shanghai Tainawei for RMB 2.5 billion via shares and cash, raising up to RMB 1.82 billion in supporting funds alongside. Wuxi Shangji, a PVD and etching equipment maker, committed to revenues of no less than RMB 350 million, 450 million and 610 million for 2026–2028. After the deal, Tuojing will offer a complete 3D-integration equipment product line covering thin-film deposition, etching, bonding and metrology, enabling one-stop procurement and joint process development for customers.",
+      "NAURA's subsidiary will acquire hybrid-bonding equipment maker Nuohe Jianwei for RMB 405 million in cash. Nuohe's tools have already reached nanometer-level alignment precision, secured repeat orders, and are awaiting validation by leading customers.",
+      "Hybrid bonding, called the \"chokepoint process\" of 3D chips, is entering a fast landing phase, with related equipment demand expected to multiply by 2030, driven by the explosive growth of AI/HPC and HBM. Dutch firm BESI still holds about 70% of the global market, but Chinese equipment makers are accelerating their catch-up from zero to one, shifting competition from single-tool breakthroughs to platform-based turnkey solutions."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 17, 2026",
+    "title": "Galaxy Microelectronics to Acquire Hengtaike for RMB 645 Million in Power-Device Push",
+    "body": [
+      "Galaxy Microelectronics (688689.SH) announced after market close on October 16 that it plans to acquire 100% of Hengtaike Semiconductor (Shanghai) for RMB 645 million through share issuance, and will raise supporting funds of up to RMB 580.5 million for the industrialization of high-reliability medium/high-voltage MOS device packaging projects.",
+      "The deal values the transaction at RMB 28.24 per share, involving about 22.84 million new shares. Hengtaike is a national-level \"Little Giant\" company specializing in power semiconductor products for construction machinery, drones, photovoltaics and energy storage, with industry-leading medium-voltage SGT MOSFET and high-voltage Super Junction technology.",
+      "In the 150V–200V range, Hengtaike's medium/high-voltage SGT MOSFETs are said to match the product lines of international leading vendors. The transaction values Hengtaike's equity at RMB 586 million under the income approach, a 139.63% premium.",
+      "Galaxy Microelectronics, which focuses on semiconductor discrete devices with an IDM model, concentrates its power-device portfolio in the low-voltage segment. The acquisition aims to quickly fill its medium/high-voltage gap and accelerate the iteration of automotive-grade devices and new product launches, following the company's September announcement of a RMB 1.078 billion capacity expansion project."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 17, 2026",
+    "title": "Xingfu Electronic to Raise Up to RMB 260 Million for 40,000-Ton Semiconductor-Grade Phosphoric Acid Project",
+    "body": [
+      "Xingfu Electronic (688545.SH) announced it plans to issue shares under a simplified procedure to raise no more than RMB 260 million, with the net proceeds fully funding a 40,000-ton-per-year electronic-grade phosphoric acid project; total project investment is RMB 480 million.",
+      "The move is aimed at consolidating its leading position in electronic-grade phosphoric acid, a key wet-chemical material used in chip manufacturing."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 17, 2026",
+    "title": "Fujian Huaqing Takes China's No.1 and World's No.2 Spot in Aluminum Nitride Ceramic Substrates",
+    "body": [
+      "According to YHResearch's \"Global Aluminum Nitride (AlN) Ceramic Substrate Market Report 2025-2031\", Fujian Huaqing Electronic Materials Technology Co., Ltd. has surpassed several established international giants to rank first in China and second globally by AlN ceramic substrate market share.",
+      "AlN ceramics are a core base material for the power semiconductor industry — prized for high thermal conductivity, high temperature tolerance, high resistivity and low dielectric loss — serving as key heat-dissipation and packaging substrates for IGBTs and large-scale integrated circuits across 5G communications, photovoltaics, energy storage, rail transit and automotive electronics.",
+      "The company, a national \"Little Giant\" firm and China's first professional high-thermal-conductivity AlN ceramics manufacturer, attributes the breakthrough to in-house high-purity ceramic powder synthesis — ending dependence on imported premium powders — plus full-chain processes from tape casting and high-temperature sintering to precision grinding and etching, solving the industry's high-end AlN mass-production challenge.",
+      "Its products cover powder, substrates, copper-clad laminates and precision ceramic structural parts, and have won recognition from leading customers upstream and downstream worldwide, marking another domestic substitution milestone in a long-overseas-dominated key material."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 17, 2026",
     "title": "SEMI Sees 300mm Fab Equipment Spending Hitting US$227 Billion by 2029",
     "body": [
       "SEMI's 300mm Fab Outlook report forecasts global 300mm front-end fab equipment spending at US$149 billion in 2026, up 31% year on year, staying in double-digit growth to reach US$227 billion by 2029. Americas-region investment is projected to climb from US$18.1 billion in 2026 to US$40.6 billion in 2029.",
