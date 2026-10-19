@@ -1,5 +1,51 @@
 [
   {
+    "date": "Oct 19, 2026",
+    "title": "Dell CEO Warns AI Server Memory Shortage to Worsen Into 2027",
+    "body": [
+      "Dell Technologies CEO Michael Dell has warned that tight supply of HBM and DRAM will worsen further in 2027, as AI infrastructure demand keeps outpacing global memory capacity growth — making memory the key bottleneck for the AI server industry.",
+      "Dell currently sits on a record $95 billion backlog of enterprise and AI server orders, but converting those orders into revenue hinges on securing enough memory chips.",
+      "According to The Wall Street Journal, Dell believes the supply constraint could last up to four years, since new fabs take years from planning to full production — much of the added capacity is not expected to be fully online until 2029 or 2030.",
+      "To limit risk, Dell runs a lean-inventory model — buying DRAM close to final assembly to avoid tying up working capital — while locking in supply through long-term vendor agreements and customer prepayments.",
+      "Rising memory prices are also pushing up manufacturing costs for AI servers and other high-end systems, adding pressure across the AI supply chain."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 19, 2026",
+    "title": "XHEART Closes Strategic Round, Lifetime Funding Reaches ~5 Billion Yuan",
+    "body": [
+      "Chinese physical-AI compute chip startup XHEART (新芯航途) completed a strategic funding round on October 16, bringing its cumulative financing to approximately 5 billion yuan.",
+      "Renault Group joined as a first-time investor, Chery Auto increased its stake, and domestic memory leader CXMT (Changxin Memory) also participated in the round.",
+      "XHEART builds dedicated compute for edge-side physical-AI models. Its flagship product, the X7 ADAS large-model chip launched in March, uses a dedicated NPU with a hardware-software co-design architecture targeting 200+ TOPS for L2++ urban driving assistance and L3/L4 autonomous driving.",
+      "The X7 debuted on the SAIC Volkswagen ID.ERA 9X and is entering the supply systems of SAIC's MG and Roewe brands, GM's Cadillac, and selected Chery models. The company's largest shareholder traces back to Momenta founder Cao Xudong."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 19, 2026",
+    "title": "VTest Wins Approval for 2 Billion Yuan Convertible Bond to Expand High-End Chip Test Capacity",
+    "body": [
+      "Shanghai VTest Semiconductor (伟测科技) has received SSE approval to issue up to 2 billion yuan in convertible bonds, with proceeds earmarked for expanding test capacity for AI compute chips, memory chips, and high-end CIS.",
+      "The funds target two projects: the Shanghai HQ base (700 million yuan of the raise) and the Southwest HQ and R&D test base in Chengdu (800 million yuan), both involving new land, facilities, and high-end test equipment.",
+      "VTest, a leading third-party IC test house, covers wafer test, final test, SLT, and burn-in for AI chips, CPUs, GPUs, DPUs, SoCs, FPGAs, MCUs, memory, RF, and high-end CIS devices, serving over 200 customers including Unisoc, ZTE Microelectronics, GigaDevice, Fudan Microelectronics, SMIC, Rockchip, and Novosense.",
+      "The company reported H1 2026 revenue of 1.072 billion yuan, up 69% year on year, with net profit of 159 million yuan, up 57.6%, driven by high-end test demand from AI compute, smart driving, and large-capacity memory chips.",
+      "This is VTest's second straight year of convertible-bond financing, following an 1.175 billion yuan issue in April 2025 that was redeemed in March 2026 after a share-price rally."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 19, 2026",
+    "title": "Jialichuang Plans Hong Kong Listing Less Than Three Months After A-Share Debut",
+    "body": [
+      "Jialichuang (嘉立创, 001232) announced plans to issue H shares and list on the Hong Kong Stock Exchange main board — less than three months after its A-share debut on August 4, when its shares peaked above 234 yuan and market value once exceeded 130 billion yuan.",
+      "The company, a one-stop electronics-industry service provider covering PCB manufacturing, electronic component distribution, and assembly, says the listing would support its globalization strategy, widen offshore financing channels, and strengthen its overseas brand.",
+      "Overseas revenue grew 63.76% year on year to 1.516 billion yuan in H1 2026, accounting for 21.14% of total revenue. The company also guided Q1–Q3 2026 net profit to rise 78.76%–118.48% year on year, partly on overseas growth.",
+      "In the same roundup, Dongshan Precision received CSRC filing approval to issue up to 234,038,600 H shares for a Hong Kong listing, moving its IPO process to the HKEX hearing and pricing stage."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
     "date": "Oct 18, 2026",
     "title": "Changfei Advanced Launches SiC MOSFET Series, New Power Modules at Shenzhen Tech Event",
     "body": [
