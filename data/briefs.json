@@ -1,6 +1,17 @@
 [
   {
     "date": "Oct 19, 2026",
+    "title": "South Korean Finance Minister Sees Chip Boom Lasting Through 2027; Maeil Warns of 2029 Memory \"Red Ocean\"",
+    "body": [
+      "South Korea's Minister of Economy and Finance Lee Hyoung-il said on October 17, on the sidelines of the IMF–World Bank annual meetings in Bangkok, that the semiconductor boom would last \"at least until next year,\" citing a still-wide gap between supply and demand as supply continues to expand.",
+      "SK hynix's second-quarter operating profit surged 557% year on year, and management reiterated that demand will outstrip supply through 2030; CEO Kwak Noh-jung said in August that the memory shortage would persist into 2030. Over the past year, Samsung Electronics shares rose roughly 150% and SK hynix about 250%.",
+      "Volatility remains sharp: on October 13 Samsung fell 7.5% intraday to 231,750 won and SK hynix dropped 8.4% as the KOSPI lost nearly 7% to 5,944.31 points, and on October 15 the index plunged 7.57% in a single session. Elon Musk responded on X that China \"will produce a lot of RAM in 2028.\"",
+      "South Korea's Maeil Business Newspaper argued in an October 15 column that the period through 2028 is a \"safe zone,\" but warned that new capacity flooding the market from 2029 onward means a memory \"red ocean in 2029\" and a downturn in 2030. SK hynix reports third-quarter results on October 28 and Samsung on October 29; US September CPI rose 3.7% year on year."
+    ],
+    "sources": "eet-china.com"
+  },
+  {
+    "date": "Oct 19, 2026",
     "title": "Report: Samsung to Use TSMC 3nm for NVIDIA's Custom NVHBM Base Die",
     "body": [
       "South Korea's Seoul Economic Daily reported on October 18 that Samsung Electronics will outsource the base die at the bottom of NVIDIA's custom HBM, \"NVHBM,\" to TSMC on its 3nm process. NVIDIA unveiled NVHBM on August 26, 2026; its key design move is relocating the GPU's (which NVIDIA calls XPU) memory controller into the HBM stack's base die alongside an in-house PHY.",
