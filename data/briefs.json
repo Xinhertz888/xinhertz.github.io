@@ -1,5 +1,50 @@
 [
   {
+    "body": [
+      "Chinese chip-substrate maker Xinai Technology (芯爱科技) has closed an A2 financing round of nearly 1.5 billion yuan, with strategic investors including Victory Giant Technology and Rockchip, Jiangsu provincial and municipal state-owned funds, continued backing from existing shareholders such as Wuhan Yuefeng, and China Renaissance Securities as sole financial advisor.",
+      "The company says total social-capital backing now exceeds 5 billion yuan, including over 3 billion yuan of equity financing raised over five years, plus more than 200 million yuan paid in by employees from their own funds.",
+      "Its products — FCBGA, FCCSP and Coreless ETS substrates — target AI cloud, edge and device applications; the production line went live in May 2023, passed certification with JCET, Huatian and Tongfu within seven months of sampling, and entered ASE's system within ten months, qualifying with ASE and SPIL for volume production and covering the world's top-ten OSATs outside the US.",
+      "On process, 5-micron line/space has passed technical validation, 7-micron is sampling with key customers and 8-micron is in stable mass production; substrates for 2nm nodes are expected in mass production within 2026, with capacity tilted toward 6/4/3nm nodes.",
+      "The round funds high-end FCBGA capacity expansion, glass-substrate R&D and co-development of domestic core materials; the company is building a 415-mu base with total investment over 10 billion yuan, with the P2 plant expected online in May 2027 and P3 breaking ground in 2027 for a 2028 ramp. Morgan Stanley research cited in the report sees global high-end substrates roughly balanced in 2026 but in sustained shortage from 2027, widening through 2030 — though Xinai concedes it still trails Ibiden and Samsung Electro-Mechanics in scale and in-house high-end materials."
+    ],
+    "date": "Oct 21, 2026",
+    "sources": "eefocus.com",
+    "title": "Xinai Technology Raises Nearly ¥1.5B A2 Round to Expand High-End Chip Substrates"
+  },
+  {
+    "body": [
+      "South Korea's LX Semicon is exiting the silicon carbide business and selling more than 60 patents covering SiC devices and epitaxial wafers, with a domestic Korean power-semiconductor company selected as preferred bidder, according to THE ELEC on October 14.",
+      "The whole patent portfolio is offered as a package — not piecemeal — at an expected price below 1 billion won (about 5.013 million yuan); the MOSFET patents cover planar and trench gate structures, with filings in Korea, the US, China, Europe, Japan and Taiwan and protection running to 2045.",
+      "LX Semicon entered SiC in 2021 by acquiring LG Innotek's device-manufacturing equipment and patents — a project that had run as a national program since 2019 — but strategy shifted after Lee Yoon-tae became CEO at end-2023: the SiC R&D unit was downsized in 2024 and its joint venture with Japan's Sanken Electric was liquidated in the first half of this year.",
+      "The retreat comes as annual sales fell for three straight years, from 2.1193 trillion won in 2022 to a projected 1.6391 trillion won in 2025; first-half 2026 revenue dropped 7.6% year on year to 789.9 billion won and operating profit fell 39% to 42.6 billion won, with display-driver ICs still accounting for over 86% of revenue."
+    ],
+    "date": "Oct 21, 2026",
+    "sources": "eefocus.com",
+    "title": "LX Semicon to Exit Silicon Carbide, Puts 60+ Patents Up for Sale Under ₩1B"
+  },
+  {
+    "body": [
+      "Sipeed (矽速科技) has launched the SLogic32U3, billed as the world's first portable logic analyzer with a USB3.2 Gen2 (10Gbps) Type-C interface — the third generation of its SLogic line.",
+      "At its core is Gowin Semiconductor's GW5AT-LV60UG225C2/I1 FPGA from the Arora-V family, built on a 22nm SRAM process, with four 12.5Gbps SERDES lanes, native PCIe 3.0, 10GbE and USB3.2 support, and Gowin's single-chip USB3.x controller-plus-PHY IP that removes the need for an external USB3 PHY.",
+      "The analyzer offers 32 digital acquisition channels — 1400MS/s in 4-channel mode and 200MS/s with all 32 channels active — plus 2Gbit of onboard DDR3 buffering, with waveform data streamed directly to host memory and disk so sampling depth is no longer limited by local hardware cache.",
+      "It features adjustable thresholds, Sigrok open-source ecosystem compatibility, an expandable ADC analog-acquisition module and a CNC-machined aluminum body, targeting embedded development, bus-protocol debugging and hardware reverse engineering; Gowin also released a DK_USB_GW5AT LV60UG225 evaluation platform with Type-C for developers."
+    ],
+    "date": "Oct 21, 2026",
+    "sources": "laoyaoba.com",
+    "title": "Sipeed Launches SLogic32U3, Claimed World's First USB3.2 Gen2 Portable Logic Analyzer"
+  },
+  {
+    "body": [
+      "The sixth RISC-V China Summit, held October 19, framed 2026 as a milestone year for the architecture, with speakers pointing to a one-new-chip-generation-per-year cadence and a move into high-performance, cloud and AI-native computing.",
+      "Server-chip startup 进迭时空 debuted the V100: 46 cores (six XiangShan \"Kunminghu\" high-performance cores plus 40 in-house efficiency cores), eight DDR5 channels and 52 PCIe 5.0 lanes, fully compliant with the RISC-V server-class RVA23 specification after three years of development — alongside joint compute, AI-compute and storage system offerings.",
+      "China's RISC-V working committee said the country shipped more than 3 billion RISC-V chips in 2025 — roughly half the global total, making it the largest single market — with an output value (chips, modules and systems) of about 170 billion yuan, and 476 OpenHarmony product certifications covering 30-plus RISC-V MCUs.",
+      "Other signals included Europe's Open Chip project taping out the Bear 10 sample — described as Europe's first sub-2nm server chip — in under two years, RISC-V International chief architect Krste Asanović confirming the CLRB-M microcontroller and RVA23 profiles for production in 2026, and Tenstorrent reporting roughly 750,000 RISC-V elements deployed at scale."
+    ],
+    "date": "Oct 21, 2026",
+    "sources": "eefocus.com",
+    "title": "Sixth RISC-V China Summit: V100 Server Chip Debuts, China Shipped 3B+ RISC-V Chips in 2025"
+  },
+  {
     "date": "Oct 21, 2026",
     "title": "NVIDIA's Vera CPU Wins Modal as First Major Customer, Aims at $20B FY Sales",
     "body": [
