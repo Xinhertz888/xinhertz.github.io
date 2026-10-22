@@ -1,5 +1,62 @@
 [
   {
+    "date": "Oct 21, 2026",
+    "title": "Tenstorrent Closes $1.5 Billion Series E at $6.2 Billion Valuation",
+    "body": [
+      "US AI-chip unicorn Tenstorrent has closed a $1.5 billion Series E round at a $6.2 billion post-money valuation, led by Trace Capital and Innovation X, with participation from Fidelity, ARK Invest, Morgan Stanley, Cadence Ventures, Eclipse, Sandisk, T. Rowe Price, Tether Investments, Virtu Financial, XTX Markets and the Agostinelli Group.",
+      "The Santa Clara company, founded in 2016 and led by CEO Jim Keller, says the capital will fund scaled deployment of its Galaxy rack servers and expansion of its AI and CPU IP licensing business.",
+      "Tenstorrent builds RISC-V-based AI processors and licenses RISC-V CPU IP (TT-Ascalon) and AI core IP (Tensix), counting Samsung and LG Electronics as IP customers.",
+      "Its hardware has evolved from the 12nm Grayskull card to Wormhole, which carries 128 Tensix cores, GDDR6 memory and 488 TFLOPS of FP16 compute per card, with direct Ethernet inter-chip links that move data without going through the host CPU.",
+      "The round follows a $200M-plus Series C in May 2021 that valued the company at $1 billion, and a $693M-plus Series D in December 2024 led by Samsung Securities and AFW Partners."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 21, 2026",
+    "title": "ZTE Micro Unveils 'Everest 200' RISC-V CPU for AI Data Centers",
+    "body": [
+      "ZTE Microelectronics unveiled its first high-performance RISC-V CPU for AI data centers, the 'Everest 200' (珠峰200), at the 2026 RISC-V China Summit in Shenzhen on October 19.",
+      "The chip follows the RVA23 profile and pairs a 64-bit superscalar out-of-order core with native AI acceleration — large vector and matrix units, KV-cache optimization, and hardware engines for retrieval, reranking, compression and encryption — targeting trillion-parameter MoE models.",
+      "It supports top-tier DDR5 memory with DDR MRDIMM expansion, PCIe 6.0 and CXL 3, and is positioned for three use cases: high-density Agent CPU clusters, host CPUs in inference supernodes paired with GPU and accelerator clusters, and enterprise hybrid-inference appliances.",
+      "ZTE Micro did not disclose detailed specifications at the event and expects a formal launch by the end of this year."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 21, 2026",
+    "title": "Spacemit Launches 46-Core V100, Billed as First Fully RISC-V-Server-Spec-Compliant Chip",
+    "body": [
+      "Chinese RISC-V vendor Spacemit (进迭时空) has unveiled its first server-grade RISC-V chip, the V100, described as the first compute chip fully compliant with the RISC-V server specification, at the 2026 RISC-V China Summit.",
+      "The V100 integrates 46 RISC-V cores — six high-performance Kunming Lake V2R2 cores from the OpenHW 'Xiangshan' project plus 40 of Spacemit's own X100 efficiency cores — and can scale to 92 cores through dual-socket coherent interconnect.",
+      "It supports 8-channel DDR5 at 4800MT/s with 307GB/s of bandwidth and up to 2TB per socket, plus 52 PCIe 5.0 lanes that can host eight AI accelerators; the Kunming Lake cores are built on 7nm, run at up to 3GHz and score 15 on SPECINT2006 per GHz, positioned against Arm's Neoverse N2.",
+      "The chip covers all five pillars of the RISC-V server specification — the RVA23 profile, Server SoC, Server Platform, Boot and Runtime Services, and the security model — passing the full BRS test suite and booting mainstream Linux distributions including Ubuntu, Debian, Fedora and Red Hat.",
+      "Spacemit also launched three server systems, with the G5201 AI server supporting eight dual-width accelerator cards and demonstrated running domestic Kunlunxin M100 accelerators and the DeepSeek-V4.1-Flash model."
+    ],
+    "sources": "eefocus.com"
+  },
+  {
+    "date": "Oct 21, 2026",
+    "title": "Groq Bets on 3D-Stacked DRAM for Next-Gen AI Chips, Moving Off SRAM",
+    "body": [
+      "Groq, the SRAM-centric AI chip company recently acquired in substance by Nvidia, is reportedly evaluating 3D-stacked DRAM packaging for its next-generation chips to break through the capacity ceiling of traditional SRAM.",
+      "The scheme, dubbed 3DS, uses TSV (through-silicon via) technology to punch thousands of vertical micro-vias through DRAM dies, stacking them like a skyscraper to deliver ultra-high memory density per unit area.",
+      "Unlike the HBM used in Nvidia's high-end GPUs, which chases extreme data rates, 3DS keeps the standard DRAM interface protocol and prioritizes capacity expansion — a more pragmatic cost-efficiency play for AI inference workloads that must load massive parameter sets.",
+      "Groq's LPU architecture is famed for its inference speed but relies on tiny SRAM pools that strain under hundred-billion-parameter models; stacked DRAM aims to preserve the speed edge while solving the 'doesn't fit' problem."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
+    "date": "Oct 21, 2026",
+    "title": "Samsung Shifts M2800 Modem to 2nm, Frees 4nm Capacity for HBM4 Base Die",
+    "body": [
+      "Samsung is reallocating advanced-node capacity: its next-generation mobile modem, the M2800, will move to a 2nm process, freeing up 4nm capacity for HBM base dies — the control-function chips at the bottom of HBM stacks.",
+      "According to The Elec, Samsung System LSI expects to complete development of the M2800 in 2027; the modem will pair with the Exynos 2800 in the Galaxy S28 series slated for 2028.",
+      "Industry sources say more than half of Samsung Foundry's 4nm capacity is now earmarked for HBM4 base dies, with some estimating the share at 50% to 60%, though Samsung has not disclosed exact figures.",
+      "The outgoing generation stays on 4nm: the M2700 for the 2027 Galaxy S27 adopts optical shrink for about 4% area reduction, steps 3GPP support from Release 17 to Release 18, and adds enhanced non-terrestrial network (NTN) capability."
+    ],
+    "sources": "laoyaoba.com"
+  },
+  {
     "body": [
       "Chinese chip-substrate maker Xinai Technology (芯爱科技) has closed an A2 financing round of nearly 1.5 billion yuan, with strategic investors including Victory Giant Technology and Rockchip, Jiangsu provincial and municipal state-owned funds, continued backing from existing shareholders such as Wuhan Yuefeng, and China Renaissance Securities as sole financial advisor.",
       "The company says total social-capital backing now exceeds 5 billion yuan, including over 3 billion yuan of equity financing raised over five years, plus more than 200 million yuan paid in by employees from their own funds.",
