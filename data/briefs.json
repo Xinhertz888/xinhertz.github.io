@@ -1,5 +1,29 @@
 [
  {
+  "date": "Oct 23, 2026",
+  "title": "Alibaba's T-Head Unveils Automotive-Grade XuanTie E908A, Maps Out Full RISC-V Ecosystem Push",
+  "sources": "eefocus.com",
+  "body": [
+   "Alibaba's T-Head (DAMO Academy) released the XuanTie E908A, a new automotive-grade-enhanced processor built on the E908 platform, billed as the first processor to simultaneously reach ASIL-B/ASIL-D levels, with performance leading contemporary rivals by 20% and single-point fault metric (SPFM) exceeding 90% for the first time in the industry. It provides a real-time compute foundation for safety islands, domain controllers and in-vehicle gateways.",
+   "The roadmap calls for C925A, C930A and C950A to follow, with the C950A expected to deliver 5x the combined performance of the first generation; server products based on the newest XuanTie 950 are expected to appear next year, and T-Head projects single-core multi-threaded SPECint2026 to surpass 100 points by 2028.",
+   "On the hardware-ecosystem side, the new XT-LINK high-performance multi-core interconnect keeps XuanTie C950 efficiency at about 78% with 128 cores; for four agentic-AI workload scenarios, multi-core XuanTie C950 systems lead x86 rivals by about 11%, while joint SMT exploration with ZTE Microelectronics delivers a 35% performance gain on SMT2 (C950).",
+   "The AI-native XPU architecture natively supports scalar, vector and matrix (tensor) compute with typical operator utilization above 80%, multi-level memory (SRAM-system cache-DDR) with bandwidth utilization above 90%, and Transformer-targeted SFU hotspot acceleration that improves Softmax, Norm and RoPE operators by 2-10x — with Qwen3.8-Flash-Next inference reaching 43 tokens per second.",
+   "Software contributions are piling up: 43 GCC patches (17.5% community share, second only to Qualcomm's 34.6%, worth about 10% typical performance gain), 111 LLVM patches (+20% versus community LLVM), and 48 OpenJDK patches with the Chinese Academy of Sciences' Institute of Software (56.47% share, +31% SPECjbb on the C950). A 20-board A210 cloud cluster now runs daily AOSP builds and CTS/VTS regression tests, and commercial OS editions are shipping with Ubuntu, Alibaba Cloud and Kylinsoft."
+  ]
+ },
+ {
+  "date": "Oct 23, 2026",
+  "title": "Shenzhen Packaging-Equipment 'Little Giant' Weijian Files for IPO Tutoring",
+  "sources": "eefocus.com",
+  "body": [
+   "Shenzhen Weijian Advanced Packaging Technology Co., founded in December 2019 by chairman Lei Weizhuang, completed IPO tutoring registration with the Shenzhen securities regulator on October 19, with Huatai United Securities as the tutoring broker. It remains at the tutoring stage, with no audited financial data disclosed and no listing venue named.",
+   "The national-level 'little giant' SME builds advanced packaging equipment: storage-chip packaging gear such as the MV-M50, capable of 16-layer stacking for HBM-class high-density memory, and optical-transceiver packaging equipment including couplers supporting dual-lens, dual-FA, CPO lens and FAU coupling, plus 1.5-micron high-precision die bonders and TCB equipment.",
+   "Business is surging: first-half sales of storage packaging equipment grew more than 500% year on year and optical-transmission packaging equipment more than 300%; the company serves seven to eight of the world's top ten optical device and module makers, with overseas orders accounting for more than 20% of the total.",
+   "In May it expanded its manufacturing headquarters to over 20,000 square meters, lifting annual capacity past 3,000 units with one-to-three-month delivery on standard models, and a second round of capacity expansion is underway.",
+   "Funding history runs one round per year: Pre-A in August 2021 (tens of millions, led by SMIC Juyuan), A in April 2022 (tens of millions, led by BaseStone Capital), A+ in October 2023 (near RMB 100 million, led by Haitong Kaiyuan), A++ in January 2024, and B in August 2025 (over RMB 100 million). There is no controlling shareholder; the three founders controlled 65.72% of voting rights as of end-June."
+  ]
+ },
+ {
   "date": "Oct 22, 2026",
   "title": "Tianyue Advanced Swings to Profit as 8-Inch SiC Substrates Top 50% of Revenue",
   "sources": "eefocus.com",
