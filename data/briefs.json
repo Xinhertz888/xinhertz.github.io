@@ -1,6 +1,39 @@
 [
  {
   "date": "Oct 23, 2026",
+  "title": "Micron Dismisses 4F² DRAM as CXMT Advances VSG Transistor, Eyes Server DDR5 RDIMM",
+  "sources": "eet-china.com",
+  "body": [
+   "ChangXin Memory Technologies (CXMT) has made key progress on its next-generation 4F² DRAM cell architecture and plans to launch server-grade DDR5 RDIMM products combining the 4F² architecture with hybrid-bonding technology before the end of 2026.",
+   "At its October 21, 2026 technology webinar, Micron took the opposite view: after more than two decades of exploration, 4F² DRAM has no feasible scaling path due to complexity and cost. Micron is abandoning the 4F² route, extending the advantages of its 6F² architecture and making 3D DRAM its future direction.",
+   "CXMT's 4F² architecture uses a self-developed vertical surrounding-gate (VSG) transistor, shrinking cell footprint by about one third and lifting theoretical storage density by about 50%. Founded in 2016 and headquartered in Hefei, CXMT has grown its global DRAM revenue share from around 4% to about 10%, according to HSBC data.",
+   "Micron's node roadmap: 1γ is in high-volume production with first EUV use; 1δ (seventh-generation 10nm-class DRAM) is ramping for volume in the second half of 2027 — the first node manufactured in the US — delivering about 25% generational density gain over 1γ; 1ε introduces wafer bonding; the ζÅ (Zeta-Angstrom) first sub-10nm-class node is in early development with High-NA EUV; 3D DRAM will evolve through 3D1 and 3D2 nodes."
+  ]
+ },
+ {
+  "date": "Oct 23, 2026",
+  "title": "NVIDIA Signs Six Suppliers to Massive Capacity Expansion at GTC Berlin",
+  "sources": "eet-china.com",
+  "body": [
+   "On October 21, 2026, the opening day of GTC Berlin, NVIDIA announced large-scale capacity expansion agreements with six suppliers — Amkor, Ibiden, KYEC, Samsung Electro-Mechanics, SPIL and Unimicron — spanning substrates, advanced packaging, semiconductor testing and optical engines.",
+   "Substrates: product substrate capacity will rise 2.5x within three years; NVIDIA is paying Ibiden billions of dollars in capacity-reservation prepayments to expand its Ohno plant toward triple current levels; Samsung Electro-Mechanics joins as a new member, contributing its Korean line capacity immediately while upgrading and building its Sejong and Busan plants.",
+   "Advanced packaging: with Amkor, Korea interposer wafer capacity is set to rise more than 300% by end-2028; Amkor signed a new $1.3 billion agreement the same day, bringing its NVIDIA-related agreements to $3 billion.",
+   "Testing: total test capacity is expected to double during 2026-2027; NVIDIA is paying KYEC an $1.1 billion prepayment for a new US test facility targeting mass production in April 2027.",
+   "Optical engines: with SPIL, Taiwan optical-engine capacity is targeted at 15x current levels by mid-2027 and doubling again by end-2028."
+  ]
+ },
+ {
+  "date": "Oct 23, 2026",
+  "title": "DeepSeek Deepens Huawei Ties, Plans Pre-Training on Ascend 950DT by Year-End",
+  "sources": "eet-china.com",
+  "body": [
+   "The Information reported on October 20, citing sources, that DeepSeek is working closely with Huawei and participating in design decisions for future Huawei AI chips; Huawei is adjusting chip designs to DeepSeek's requirements on model computation and inter-processor data transfer, with the resulting designs feeding AI chips launching in 2027 and beyond.",
+   "DeepSeek plans to begin AI model pre-training on Huawei's Ascend 950DT as early as year-end, with latest tests already using over 1,000 processors — the timeline subject to test progress. Huawei plans to prioritize most of the supply of the Ascend 960DT, launching in Q1 2027, for DeepSeek, for both training and inference.",
+   "DeepSeek has open-sourced TileLang compiler tools and compute/communication components for the Ascend platform (TileLang was developed by Peking University researchers), releasing a version supporting the Ascend 950 on September 30. IDC data shows NVIDIA's share of China's datacenter AI-chip market fell to 34% in the first half of 2026, with Huawei at 28% — the gap narrowed to six percentage points."
+  ]
+ },
+ {
+  "date": "Oct 23, 2026",
   "title": "Alibaba's T-Head Unveils Automotive-Grade XuanTie E908A, Maps Out Full RISC-V Ecosystem Push",
   "sources": "eefocus.com",
   "body": [
