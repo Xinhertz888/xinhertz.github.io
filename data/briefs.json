@@ -1,5 +1,60 @@
 [
   {
+    "body": [
+      "GaN power devices are penetrating the robotics sector at an accelerating pace. On October 15, ZHUOYU Technology announced a bulk purchase order for 100,000 planetary joint modules from a national-level customer, with a contract value exceeding CNY 100 million. The modules integrate GaN power devices at the drive end, cutting conduction and switching losses and achieving over 95% drive efficiency, and ZHUOYU plans to scale joint-module capacity to 2 million units by 2027 and 10 million units by 2028.",
+      "On October 13, InnoScience announced a co-development partnership with Ulink Intelligent on GaN-based joint modules, using three-phase full-bridge topology plus half-bridge bootstrap drive with low-voltage GaN devices, cutting power-conversion losses by 50%, shrinking the main power-conversion circuit by 75% and the whole machine by 15-20%. InnoScience's H1 2026 report disclosed 465,000 GaN chips delivered to the humanoid-robotics market, up 50% year-on-year, with adoption expanding into joint drives, 48V/12V power conversion, BMS, dexterous hands and LiDAR.",
+      "Infineon introduced a 100V GaN motor-drive reference design that packs GaN devices and a leadless QFN package directly inside the motor body, targeting humanoid and mobile-robotics applications. The company projects 300 million humanoid robots by 2050 with an average BOM cost of about $500 each including Si/GaN power semiconductors and DC-DC converters. Researchers estimate the GaN-for-humanoid-robotics market will reach CNY 347 million by 2031 at a 2026-2031 CAGR of 90.04%."
+    ],
+    "date": "Oct 23, 2026",
+    "sources": "eefocus.com",
+    "title": "GaN Gains Ground in Robotics: ZHUOYU Lands 100K Joint-Module Order, InnoScience and Infineon Push Ahead",
+    "url": "https://www.eefocus.com/article/2107029.html"
+  },
+  {
+    "body": [
+      "Canon plans to raise the production capacity of its semiconductor back-end lithography equipment to 150% of 2026 levels by 2029, a 50% increase, Japan's Nikkan Kogyo Shimbun reported on October 20. The expansion will come from ramping up the new factory at its Utsunomiya site, improving production efficiency, and developing products for large substrates.",
+      "In a January interview, Canon executive officer Yoaki Takeishi said Canon built a new plant in Utsunomiya, Tochigi, in 2025, lifting semiconductor lithography equipment capacity to 1.5 times the 2024 level; the new plant started operation in September 2025 and targets full production in 2027.",
+      "Canon's back-end tools support 510 x 515 mm substrates with high alignment accuracy, a wide exposure field and 0.8-micron resolution, delivering a 52 x 68 mm single-shot field stitched to 100 x 100 mm exposure in four shots, with distortion aberration cut to less than one-quarter of the previous generation. Canon expects to ship 69 KrF and 169 i-line lithography tools in 2026, 238 in total, up four units year-on-year. On October 13, 2023, Canon launched its new-generation nanoimprint lithography tool, becoming the first vendor to commercialize nanoimprint semiconductor manufacturing equipment with 14 nm minimum line width, and delivered the system to the Texas Institute for Electronics on September 26, 2024."
+    ],
+    "date": "Oct 23, 2026",
+    "sources": "eet-china.com",
+    "title": "Canon to Raise Back-End Lithography Equipment Capacity 50% by 2029",
+    "url": "https://www.eet-china.com/news/202610214967.html"
+  },
+  {
+    "body": [
+      "On October 19 local time, the U.S. State Department sanctioned five Chinese entities under the Protecting American Intellectual Property Act, citing 'trade secret theft.' The five entities are Shanghai Zhisuan Technology Co., Ltd., MiraclePlus (formerly Y Combinator China), three venture-capital funds linked to MiraclePlus, and one management entity affiliated with it.",
+      "Shanghai Zhisuan Technology is an AI infrastructure developer founded in 2023; its founder Linwei Ding was convicted in the U.S. for allegedly stealing Google AI trade secrets. The sanctions reach up the capital chain, targeting the incubator and the seed-round funds alongside the accused company itself. Specific restrictive measures have not yet been disclosed.",
+      "On the same day, the U.S. Department of Homeland Security issued a rule requiring all federal civilian agencies to remove all DeepSeek products and derivatives from their IT systems and banning further procurement. On October 20, China's Ministry of Commerce responded with a four-point statement: condemning the sanctions as 'vile' and 'firmly opposed,' stating that China's AI development has nothing to do with the alleged trade-secret theft, urging the U.S. to correct its actions, and warning it will take 'necessary measures' in response."
+    ],
+    "date": "Oct 23, 2026",
+    "sources": "eet-china.com",
+    "title": "U.S. Sanctions Five Chinese Entities Over Alleged Trade-Secret Theft, DHS Bans DeepSeek From Federal IT",
+    "url": "https://www.eet-china.com/news/202610219441.html"
+  },
+  {
+    "body": [
+      "Hunan Goke Microelectronics notified customers and distributors on October 22 of a new round of price increases on packaged KGD (Known Good Die) storage products effective November 2026. It is Goke's second hike this year, and the first quoted as absolute dollar amounts rather than percentage increases.",
+      "Under the notice, packaged 64MB KGD rises by $0.50, 128MB by $1.00, and 256MB by $1.50; products with external DDR will be notified separately. The stated reason is the industry-wide DDR shortage and rising market prices widening the supply gap, with substrate and lead-frame material costs also climbing sharply. In January 2026, Goke raised packaged 512Mb, 1Gb and 2Gb KGD by 40%, 60% and 80% respectively using percentage terms.",
+      "TrendForce data shows Q4 2026 conventional DRAM contract prices are expected to rise 10-15% quarter-on-quarter, PC DRAM 13-18%, and NAND Flash 15-20%. Packaged KGD, which integrates a controller and tested DRAM dies in one package, is widely used in surveillance, automotive electronics, industrial control, edge AI and IoT devices, where downstream customers have little room to pause purchases."
+    ],
+    "date": "Oct 23, 2026",
+    "sources": "eet-china.com",
+    "title": "Goke Micro Raises Packaged KGD Storage Prices a Second Time This Year",
+    "url": "https://www.eet-china.com/news/202610236534.html"
+  },
+  {
+    "body": [
+      "NVIDIA CEO Jensen Huang told CNBC on October 22 during the GTC Berlin conference that despite the past week's sharp selloff in memory stocks on oversupply fears, he does not see memory oversupply emerging through 2029. 'The good thing about memory is you can always use more,' he said, noting that HBM will keep being used for many years to come.",
+      "Asked whether NVIDIA would work with China's CXMT and adopt its memory products, Huang said 'we're open,' adding that 'almost every company in the world works with a Chinese company somewhere in their supply chain.' He praised China's manufacturing prowess and acknowledged that U.S. export controls have accelerated China's semiconductor development: 'No doubt, we accelerated all of this.'",
+      "The selloff was triggered by CXMT president Cao Kan Yu's October 10 announcement of key progress on 4F² DRAM architecture, targeting DDR5 RDIMM server memory products by the end of 2026. TrendForce data shows CXMT's global DRAM revenue share reached about 9.5% in Q2 2026, ranking fourth worldwide. Micron dismissed 4F² as lacking a viable path to scale after more than two decades of exploration, while Samsung confirmed it is developing a 4F² VCT architecture expected to reach commercial production around 2028."
+    ],
+    "date": "Oct 23, 2026",
+    "sources": "eet-china.com",
+    "title": "Jensen Huang Sees No Memory Oversupply Through 2029, Open to Working With CXMT",
+    "url": "https://www.eet-china.com/news/202610234340.html"
+  },
+  {
     "date": "Oct 23, 2026",
     "title": "Micron Dismisses 4F² DRAM as CXMT Advances VSG Transistor, Eyes Server DDR5 RDIMM",
     "sources": "eet-china.com",
