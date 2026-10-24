@@ -1,5 +1,60 @@
 [
   {
+    "date": "Oct 24, 2026",
+    "title": "NVIDIA's Rubin Hits Mass Production in Q3 as Diamond-Copper Enters Platform Spec",
+    "body": [
+      "In the third quarter of 2026, the first mass-production Vera Rubin NVL72 AI server rack rolled off the automated production line of Ingrasys, a Foxconn subsidiary, and shipped to Microsoft. NVIDIA confirmed on its May earnings call that Rubin would begin shipping in Q3, with every rack built on a diamond-copper composite material paired with 45°C warm-water direct liquid cooling; the CFO guided that Rubin would contribute roughly 20% of data-center revenue, while supply could cover only about 70% of demand.",
+      "Diamond-copper — a diamond/copper composite — delivers 600–800 W/(m·K) thermal conductivity, roughly double pure copper's ~400 W/(m·K), while staying compatible with existing skiving and brazing processes. It has now been written into the platform specification. Analyst reports cited by the article put Rubin's rack TDP at up to 2300W versus 700W for H100, with hotspot pressure reaching 770 W/cm².",
+      "On the supply chain, Taiwan ODMs locked in full-rack integration: Quanta, Wistron and Foxconn moved into volume conversion in Q3, with Foxconn guiding full ramp-up from Q4, though analysts estimate over 95% of Q3 racks shipped were still GB300. Jentech won the initial vapor-chamber supply for Rubin, with per-unit pricing stepping from about $30 in the Blackwell Ultra generation to ~$100 for Rubin and ~$200 for Rubin Ultra. On the Chinese materials side, Sifangda (planning CNY 450 million for a 25,000-piece-per-year 4-inch line), Guoji Jinggong and Worldia (CNY 520 million expansion) are all in qualification."
+    ],
+    "sources": "eefocus.com",
+    "url": "https://www.eefocus.com/article/2107084.html"
+  },
+  {
+    "date": "Oct 24, 2026",
+    "title": "SK Hynix Pauses Solidigm US IPO Review, Shelving Potential $15 Billion Raise",
+    "body": [
+      "SK Hynix announced on October 23 that it has suspended its review of a US IPO for its American subsidiary Solidigm, citing heightened financial-market volatility and weak semiconductor stocks, and stressed the move does not reflect any change in Solidigm's growth outlook or investment needs.",
+      "Reuters reported on September 25 that Solidigm had held an IPO underwriter bake-off, with a listing as early as 2027 at a valuation of up to $150 billion — which would set a US semiconductor IPO record — raising as much as $15 billion to fund new US production facilities. The halt stems from two pressures: market volatility, and tightening Korean oversight. SK Hynix's own shares have fallen more than 30% since late September (KOSPI down 20%) on dilution concerns, while regulators warned the listing may fall under Korea's tightened dual-listing rules.",
+      "Solidigm, based in Rancho Cordova, California, makes NAND flash and enterprise SSDs. It was born from SK Hynix's 2020 acquisition of Intel's NAND and storage business for about $9 billion, completed in two phases in March 2025. Its enterprise SSDs reach 122.88TB and serve AI data-center servers and cloud infrastructure; H1 2026 revenue was KRW 12.25 trillion, up 265% year-on-year, with net profit of KRW 5.84 trillion."
+    ],
+    "sources": "eet-china.com",
+    "url": "https://www.eet-china.com/news/202610231533.html"
+  },
+  {
+    "date": "Oct 24, 2026",
+    "title": "US Commerce Plans Up to $389 Million for Power-Semiconductor R&D, GaN Targets AI Data-Center Power Bottleneck",
+    "body": [
+      "On October 22, the US Department of Commerce announced plans to provide up to $389 million in research funding to four companies for power-semiconductor devices and key materials, under the $10 billion semiconductor R&D program in the 2022 CHIPS and Science Act; it is the program's 20th award in recent months.",
+      "The four recipients: Helion (up to $175 million) for high-voltage power semiconductors and advanced energy power modules for fusion power, with a $50 million private-investment match and a production line in Everett, Washington in partnership with GlobalFoundries; Commonwealth Fusion Systems ($85 million) for RF plasma heating and power-electronics semiconductors; Vertical Semiconductor ($73 million) for vertical-structure GaN power semiconductors aimed at AI data-center racks, including a 2.5-megawatt rack demonstration; and Sibelco North America ($56 million) for next-generation ultra-high-purity quartz purification and a demonstration facility in North Carolina.",
+      "GaN is positioned as a fix for the AI power crisis: next-generation AI processors will draw 2–4 kW per chip and rack power is pushing past 1 MW, making power delivery and conversion efficiency a core bottleneck. A condition of the awards is that the government takes a minority, non-voting equity stake — for example, $175 million of Helion's latest Series G preferred shares."
+    ],
+    "sources": "eet-china.com",
+    "url": "https://www.eet-china.com/news/202610236604.html"
+  },
+  {
+    "date": "Oct 24, 2026",
+    "title": "BYD Semiconductor Ships 50M+ Units of BF1190/1186 Automotive Isolation Gate-Driver Series",
+    "body": [
+      "BYD Semiconductor has brought its BF1190/BF1186 series of automotive-grade isolated gate drivers into full mass production, with cumulative shipments of this type exceeding 50 million units across automotive and industrial markets.",
+      "The BF1190 is a single-channel driver with CMTI above 150 kV/μs, integrating primary/secondary undervoltage protection, desaturation protection, Miller clamp and soft turn-off. The BF1186-F is a dual-channel part with CMTI above 100 kV/μs and integrated Miller clamp. Both deliver up to ±10A drive current and at least 5.7 kVrms isolation, meeting AEC-Q100 automotive standards, and drive IGBT and SiC power devices directly without extra buffers or driver amplifiers.",
+      "Target applications cover automotive main drives, OBC/DCDC, air-compressor and PTC heaters, plus industrial PV and energy-storage inverters and AI server power supplies."
+    ],
+    "sources": "laoyaoba.com",
+    "url": "https://www.laoyaoba.com/n/1123684"
+  },
+  {
+    "date": "Oct 24, 2026",
+    "title": "Leadmicro's Yuanchuang Precision Hits Dual-Route MFC Mass Production for Domestic Substitution",
+    "body": [
+      "Yuanchuang Precision, under Guangdong Lead Group, has brought both of its mass flow controller (MFC) technology routes — thermal and differential-pressure — into volume production, becoming one of the few domestic makers with both routes scaled and multiple customers qualified. MFCs, called the 'nerve valves' of semiconductor process gas lines, require 6–12 units per etcher chamber.",
+      "The differential-pressure VG80 targets precision small-flow control for etchers, while the PG90 covers a wider flow range for ALD/CVD tools; the new thermal T90 product uses proven VG-series piezoelectric technology. Together the two routes cover over 90% of semiconductor process scenarios.",
+      "The push sits within Lead Group's components-platform strategy, showcased at the October 14–16 Bay Area Semiconductor Industry Eco Expo in Shenzhen. Founded in 1995, Lead Group reported 2025 revenue exceeding CNY 47 billion; its Shanghai base is expected to be completed in 2027."
+    ],
+    "sources": "laoyaoba.com",
+    "url": "https://www.laoyaoba.com/n/1122921"
+  },
+  {
     "body": [
       "GaN power devices are penetrating the robotics sector at an accelerating pace. On October 15, ZHUOYU Technology announced a bulk purchase order for 100,000 planetary joint modules from a national-level customer, with a contract value exceeding CNY 100 million. The modules integrate GaN power devices at the drive end, cutting conduction and switching losses and achieving over 95% drive efficiency, and ZHUOYU plans to scale joint-module capacity to 2 million units by 2027 and 10 million units by 2028.",
       "On October 13, InnoScience announced a co-development partnership with Ulink Intelligent on GaN-based joint modules, using three-phase full-bridge topology plus half-bridge bootstrap drive with low-voltage GaN devices, cutting power-conversion losses by 50%, shrinking the main power-conversion circuit by 75% and the whole machine by 15-20%. InnoScience's H1 2026 report disclosed 465,000 GaN chips delivered to the humanoid-robotics market, up 50% year-on-year, with adoption expanding into joint drives, 48V/12V power conversion, BMS, dexterous hands and LiDAR.",
